@@ -11,12 +11,10 @@
 - [教學](https://rock-mc.github.io/tutorials/)
 - [常見問題](https://rock-mc.github.io/qa/)
 - [歷史](https://rock-mc.github.io/history/)
+- [聯絡我們](https://rock-mc.github.io/contact/)
 
 ## 徵求
-報名管理者請洽 discord: CodingMan#9434
-- 管理者，負責
-  - 招募
-  - 客服
+報名客服請洽伺服主 discord: CodingMan#9434
 
 ## 如何加入
 加入有兩個方法，在此之前請先閱讀 [伺服器規則](https://rock-mc.github.io/rule/)
@@ -28,5 +26,5 @@
     1. 找到磐石伺服器的朋友
     2. 用友善的態度，請他給你邀請碼
   - 如果你沒有磐石伺服器的朋友
-    1. 請至 [Discord](https://discord.gg/Kd3W7s8TUv) 標記客服申請面試
+    1. 請至 [Discord](https://discord.gg/Kd3W7s8TUv) 標記客服申請面試，或者寄信至客服信箱 service.rock.mc@gmail.com
     2. 面試通過後，即可取得邀請碼
