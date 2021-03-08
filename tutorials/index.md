@@ -1,1 +1,7 @@
-# 教學
+# 新手教學
+這裡有所有小石頭需要知道的事情。
+
+- [伺服器規則](https://rock-mc.github.io/rule/)
+- [常見問題](https://rock-mc.github.io/qa/)
+- [歷史](https://rock-mc.github.io/history/)
+- [聯絡我們](https://rock-mc.github.io/contact/)
