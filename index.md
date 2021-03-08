@@ -10,16 +10,4 @@
 報名客服請洽伺服主 discord: CodingMan#9434
 
 ## 如何加入
-加入有兩個方法，在此之前請先閱讀 [新手教學](https://rock-mc.github.io/tutorials/)
-- 如果你已經有邀請碼
-  - 請參考教學中的 [輸入邀請碼](https://rock-mc.github.io/tutorials/)
-  - 最後請謹慎地挑選你所推薦的對象。如果你推薦的玩家被踢出，視情節將會影響你的遊玩權限與邀請配額。
-- 如果你沒有邀請碼
-  - 如果你有磐石伺服器的朋友
-    1. 找到磐石伺服器的朋友
-    2. 用友善的態度，請他給你邀請碼
-  - 如果你沒有磐石伺服器的朋友
-    1. 申請面試，擇一
-      - 請至 [Discord](https://discord.gg/Kd3W7s8TUv) 標記客服
-      - 寄信至客服信箱 service.rock.mc@gmail.com 約定面試時間
-    2. 面試通過後，即可取得邀請碼
+請參考 [如何加入](https://rock-mc.github.io/howtojoin/)
