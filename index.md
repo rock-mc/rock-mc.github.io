@@ -6,18 +6,11 @@
 磐石伺服器是一個邀請制的原味生存伺服器。目標是提供一個長期、穩定、不延遲的伺服器。  
 預計於 1.17 版本開放
 
-## 傳送門
-- [伺服器規則](https://rock-mc.github.io/rule/)
-- [教學](https://rock-mc.github.io/tutorials/)
-- [常見問題](https://rock-mc.github.io/qa/)
-- [歷史](https://rock-mc.github.io/history/)
-- [聯絡我們](https://rock-mc.github.io/contact/)
-
 ## 徵求
 報名客服請洽伺服主 discord: CodingMan#9434
 
 ## 如何加入
-加入有兩個方法，在此之前請先閱讀 [伺服器規則](https://rock-mc.github.io/rule/)
+加入有兩個方法，在此之前請先閱讀 [新手教學](https://rock-mc.github.io/tutorials/)
 - 如果你已經有邀請碼
   - 請參考教學中的 [輸入邀請碼](https://rock-mc.github.io/tutorials/)
   - 最後請謹慎地挑選你所推薦的對象。如果你推薦的玩家被踢出，視情節將會影響你的遊玩權限與邀請配額。
