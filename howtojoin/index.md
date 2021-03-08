@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/master/wallpaper.png" alt="drawing" style="vertical-align:middle"/>
+</p>
+
 # 如何加入
 磐石伺服器採用了邀請制，目的是希望讓所有玩家都可以一起來維護玩家品質  
 插件則採用自家工程師開發的 [InvitationSystem](https://github.com/rock-mc/InvitationSystem) 有問題可以快速修改  
@@ -14,5 +18,4 @@
 
 好，現在你已經有邀請碼了，在加入伺服器前你需要知道幾件事情  
 加入伺服器後，你會擁有**兩個**邀請配額，請謹慎地挑選你邀請的對象  
-如果你推薦的玩家被踢出，視情節將會影響你的**遊玩權限**與**邀請配額**
-
+如果你推薦的玩家被踢出，視情節將會影響你的 **遊玩權限** 與 **邀請配額**  
