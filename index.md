@@ -11,3 +11,6 @@
 
 ## 如何加入
 請參考 [如何加入](https://rock-mc.github.io/howtojoin/)
+
+## 網頁地圖
+請參考 [網頁地圖](https://rock-mc.github.io/sitemap/)
