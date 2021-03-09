@@ -4,7 +4,7 @@
 
 # 如何加入
 磐石伺服器採用了邀請制，目的是希望讓所有玩家都可以一起來維護玩家品質  
-插件則採用自家工程師開發的 [InvitationSystem](https://github.com/rock-mc/InvitationSystem) 有問題可以快速修改  
+邀請制功能是採用自家工程師開發的 [InvitationSystem](https://github.com/rock-mc/InvitationSystem) 有問題可以快速修改  
 
 在一切開始之前，請先閱讀 [伺服器規則](https://rock-mc.github.io/rule/) 同意每一條規則再加入我們喔 :D  
 
