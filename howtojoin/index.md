@@ -24,17 +24,16 @@
 1. 選擇遊玩版本 1.17，點選**開始遊戲**
 <img src="https://i.imgur.com/oDqE09J.png" alt="drawing" style="vertical-align:middle"/>  
 
-2. 點選多人遊戲
-
+2. 點選**多人遊戲**
 <img src="https://i.imgur.com/CFyqpt9.png" alt="drawing" style="vertical-align:middle"/>  
 
-3. 點選新增伺服器
+3. 點選**新增伺服器**
 <img src="https://i.imgur.com/c7rXjGC.png" alt="drawing" style="vertical-align:middle"/>
 
-4. 伺服器名稱可任意填寫，伺服器位址請填寫 rock-mc.com 之後，點選完成
+4. **伺服器名稱**可任意填寫，**伺服器位址**請填寫 **rock-mc.com** 之後，點選**完成**
 <img src="https://i.imgur.com/8fetGMn.png" alt="drawing" style="vertical-align:middle"/>
 
-5. 如果可以看到伺服器資訊就成功新增囉，點選伺服器再選加入伺服器就可以進去了
+5. 如果可以看到伺服器資訊就成功新增囉，點選伺服器再選**加入伺服器**就可以進去了
 <img src="https://i.imgur.com/qAyR0UE.png" alt="drawing" style="vertical-align:middle"/>
 
 6. 進入伺服器因為尚未通過驗證，會無法移動、發言，同時也免疫所有傷害
