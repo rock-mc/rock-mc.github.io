@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/master/logo.png" alt="drawing" width="350" style="vertical-align:middle"/>
+<img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/master/images/logo.png" alt="drawing" width="350" style="vertical-align:middle"/>
 </p>
 
 # 磐石伺服器
