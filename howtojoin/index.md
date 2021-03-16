@@ -1,8 +1,4 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/master/wallpaper.png" alt="drawing" style="vertical-align:middle"/>
-</p>
-
-<p align="center">
 <img src="https://imgur.com/zc2TK3B.jpg" alt="drawing" style="vertical-align:middle"/>
 </p>
 
