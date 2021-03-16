@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://imgur.com/zc2TK3B.jpg" alt="drawing" style="vertical-align:middle"/>
+<img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/master/images/wallpaper_small.png" alt="drawing" style="vertical-align:middle"/>
 </p>
 
 # 如何加入
