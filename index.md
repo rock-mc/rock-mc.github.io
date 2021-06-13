@@ -8,7 +8,7 @@
 預計於 **1.17** 版本開放，正在緊鑼密鼓開發中。  
 
 找到我們  
-[Discord](https://discord.gg/dDZMDfGkPq)  
+[Discord](https://discord.gg/nnRT2QBqRN)  
 追蹤官方消息  
 [Twitter](https://twitter.com/rock_mc_server)、[Facebook](https://www.facebook.com/rock.mc.server)
 
