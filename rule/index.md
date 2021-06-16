@@ -3,6 +3,9 @@
 所有規則將視情況補充調整。違反者，將由幹部群視違反程度決定罰則內容。  
 CodingMan
 
+### 規則 0
+請勿影響他人
+
 ### 規則 1
 請勿使用無法調整時間延遲，由 not 閘構成的閃爍器。  
 <img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/master/images/BuildRule01.gif" alt="drawing" width="350" style="vertical-align:middle"/>  
