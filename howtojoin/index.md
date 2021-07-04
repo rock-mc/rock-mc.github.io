@@ -43,6 +43,6 @@
 例如: /invits verify 459851
 <img src="https://i.imgur.com/pXxRiSk.png" alt="drawing" style="vertical-align:middle"/>
 
-8. 驗證成功，恭喜你可以開始玩了
+8. 驗證成功，恭喜你可以開始玩了，註冊成功之後請先閱讀 [玩家須知](https://rock-mc.github.io/notice/)
 <img src="https://i.imgur.com/fnazQwN.png" alt="drawing" style="vertical-align:middle"/>
 
