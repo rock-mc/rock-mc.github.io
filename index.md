@@ -17,7 +17,7 @@
 
 
 ## 伺服資訊須知
-[伺服資訊](https://rock-mc.github.io/sitemap/)
+[網頁地圖](https://rock-mc.github.io/sitemap/)
 
 ## 追蹤官方消息  
 [Twitter](https://twitter.com/rock_mc_server) <br>
