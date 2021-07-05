@@ -21,4 +21,5 @@
 
 ## 追蹤官方消息  
 [Twitter](https://twitter.com/rock_mc_server)
+</p>
 [Facebook](https://www.facebook.com/rock.mc.server)
