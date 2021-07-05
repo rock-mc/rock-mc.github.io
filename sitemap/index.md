@@ -7,3 +7,6 @@
 - [常見問題](https://rock-mc.github.io/qa/)
 - [歷史](https://rock-mc.github.io/history/)
 - [聯絡我們](https://rock-mc.github.io/contact/)
+
+
+ [回首頁](https://rock-mc.github.io/)
