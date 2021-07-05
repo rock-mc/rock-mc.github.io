@@ -1,8 +1,7 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/master/images/logo.png" alt="drawing" width="350" style="vertical-align:middle"/>
+<img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/master/images/rock_banner.png" alt="drawing" style="vertical-align:middle"/>
 </p>
 
-# 磐石伺服器
 磐石伺服器是一個架設在 Google Cloud Platform 的邀請制原味生存 Minecraft 伺服器。  
 網路穩定快速，伺服器能力可以隨時根據需求調整。  
 
