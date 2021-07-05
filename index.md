@@ -12,13 +12,13 @@
 目前已經於 **1.17** 版本開放內部測試，歡迎加入我們。  
 
 
-## 官方聊天頻道
-加入[Discord](https://discord.gg/nnRT2QBqRN)
+## 官方社群頻道
+[Discord](https://discord.gg/nnRT2QBqRN)
 
 
 ## 伺服資訊須知
-[網頁地圖](https://rock-mc.github.io/sitemap/)
+[伺服資訊](https://rock-mc.github.io/sitemap/)
 
 ## 追蹤官方消息  
-[Twitter](https://twitter.com/rock_mc_server) 、 
+[Twitter](https://twitter.com/rock_mc_server) <br>
 [Facebook](https://www.facebook.com/rock.mc.server)
