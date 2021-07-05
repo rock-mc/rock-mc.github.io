@@ -14,12 +14,11 @@
 
 ## 官方聊天頻道
 加入[Discord](https://discord.gg/nnRT2QBqRN)
-</p>
+
 
 ## 伺服資訊須知
 [網頁地圖](https://rock-mc.github.io/sitemap/)
-</p>
 
 ## 追蹤官方消息  
-[Twitter](https://twitter.com/rock_mc_server)</p>
+[Twitter](https://twitter.com/rock_mc_server)
 [Facebook](https://www.facebook.com/rock.mc.server)
