@@ -12,7 +12,7 @@
 <img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/master/images/BuildRule02.gif" alt="drawing" width="300" style="vertical-align:middle"/>
 <img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/master/images/BuildRule03.gif" alt="drawing" width="300" style="vertical-align:middle"/>  
 
-### 3. 空中路徑請建築在高度 300 以上
+### 3. 空中路徑請建築在高度 230 以上
    我們希望你的空中路徑是不會影響到他人住家的景觀，<br>並且請使用**垂直往上**的方式建造你前往空中路徑的建築。<br>(如攀爬梯、螺旋走道…等)  
 <img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/master/images/BuildRule04.png" alt="drawing" width="300" style="vertical-align:middle"/>
 <img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/master/images/BuildRule05.png" alt="drawing" width="300" style="vertical-align:middle"/>  
