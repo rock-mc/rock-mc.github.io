@@ -9,7 +9,7 @@
    
 ### 2. 行為及建築類(濫用漏洞、影響伺服)
    - 2-1. 請勿影響他人遊戲體驗。例如：
-     - 未經對方同意PVP
+     - 未經對方同意 PVP
      - 隨意拿取明顯他人區域內物品或殺戮其圈養生物(牽繩、圍欄、建築內…等)
      - 使用外掛
      - 詐騙行為
@@ -21,9 +21,8 @@
      - 無限制繁殖大量生物
      - 利用漏洞取得不符規定物件
      - 仍有補充條例空間，若有疑問請問管理員
-   - 2-3. 地貌不平時，請以整成平地代替建設平台。
-   - 2-4. 禁止水上路徑，請以坐船方式航行。
-   - 2-5. 請勿使用無法調整時間的連閃器  <br>　　(說明：指無法調整時間延遲，由 not 閘構成的閃爍器)   <br>　　<img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/master/images/BuildRule01.gif" alt="drawing" width="275" style="vertical-align:middle"/>   <br>　　請多使用中繼器增加時間延遲並加上開關的閃爍器，不使用時可以關閉。   <br>　　<img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/master/images/BuildRule02.gif" alt="drawing" width="275" style="vertical-align:middle"/> <img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/master/images/BuildRule03.gif" alt="drawing" width="275" style="vertical-align:middle"/>  
+   - 2-3. 禁止水上路徑，請以坐船方式航行。
+   - 2-4. 請勿使用無法調整時間的連閃器  <br>　　(說明：指無法調整時間延遲，由 not 閘構成的閃爍器)   <br>　　<img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/master/images/BuildRule01.gif" alt="drawing" width="275" style="vertical-align:middle"/>   <br>　　請多使用中繼器增加時間延遲並加上開關的閃爍器，不使用時可以關閉。   <br>　　<img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/master/images/BuildRule02.gif" alt="drawing" width="275" style="vertical-align:middle"/> <img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/master/images/BuildRule03.gif" alt="drawing" width="275" style="vertical-align:middle"/>  
    - 2-6. 空中路徑請建築在高度 230 以上  <br>　　我們希望你的空中路徑是不會影響到他人住家的景觀，  <br>　　並且請使用**垂直往上**的方式建造你前往空中路徑的建築。  <br>　　(如攀爬梯、螺旋走道…等)    <br>　　<img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/master/images/BuildRule04.png" alt="drawing" width="275" style="vertical-align:middle"/> <img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/master/images/BuildRule05.png" alt="drawing" width="275" style="vertical-align:middle"/>  
 
 ### 3. 官方類(官方行為、判決/懲處、邀請制、規定相關)
@@ -39,7 +38,7 @@
 
 ### 所有規則將視情況補充調整。<br>違反者，將由幹部群視違反程度決定罰則內容。(©CodingMan)
 
-###### 20210713修訂  
+###### 20210804 修訂  
 <br>
 <br>
 <br>
