@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/master/images/rock_banner.png" alt="drawing" style="vertical-align:middle"/>
+<img src="https://i.imgur.com/1i7pDVq.jpg" alt="drawing" style="vertical-align:middle"/>
 </p>
 
 磐石伺服器是一個邀請制原味生存 Minecraft 伺服器。  
