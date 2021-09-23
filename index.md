@@ -17,6 +17,6 @@
 
 ### 傳送門<br>[網頁地圖](https://rock-mc.github.io/sitemap/)
 
-### 官方社群頻道(外部連結)<br>[Discord](https://discord.gg/dDZMDfGkPq)
+### 官方社群頻道(外部連結)<br>[Discord](https://discord.gg/mCFdwkChBG)
 
 ### 追蹤官方消息(外部連結)<br>[Twitter](https://twitter.com/rock_mc_server)<br>[Facebook](https://www.facebook.com/rock.mc.server)
