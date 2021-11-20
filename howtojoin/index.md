@@ -14,7 +14,7 @@
 如果你還沒有邀請碼，有兩個方法可以取得：
  - 如果你有磐石伺服器的朋友。<br>用友善的態度，請對方給你邀請碼
  - 如果你無磐石伺服器的朋友
-    - 請至 [Discord](https://discord.gg/mCFdwkChBG) 標記 @客服 或 <br>寄信至客服信箱 service.rock.mc@gmail.com <br>約定面試時間  
+    - 請至 [Discord](https://discord.gg/mCFdwkChBG) 標記 @小幫手 或 <br>寄信至客服信箱 service.rock.mc@gmail.com <br>約定面試時間  
     - 幹部群會一起面試，面試通過後，即可取得邀請碼
 
 在你擁有邀請碼後，關於邀請制須知道一件事情：  
