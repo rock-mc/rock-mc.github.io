@@ -15,6 +15,8 @@
 
 目前正在 **Java 1.17.1** 營運，歡迎加入我們。
 
+伺服主 CodingMan
+
 ### [如何加入](https://rock-mc.github.io/howtojoin/)
 
 ### 傳送門<br>[網頁地圖](https://rock-mc.github.io/sitemap/)
