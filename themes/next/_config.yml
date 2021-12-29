@@ -14,7 +14,7 @@ reminder: false
 
 # Allow to cache content generation. Introduced in NexT v6.0.0.
 cache:
-  enable: true
+  enable: false
 
 # Remove unnecessary files after hexo generate.
 minify: false
@@ -59,7 +59,7 @@ footer:
     # Icon name in Font Awesome. See: https://fontawesome.com/icons
     name: fa fa-heart
     # If you want to animate the icon, set it to true.
-    animated: false
+    animated: true
     # Change the color of icon, using Hex Code.
     color: "#ff0000"
 
@@ -67,7 +67,7 @@ footer:
   copyright:
 
   # Powered by Hexo & NexT
-  powered: true
+  powered: false
 
   # Beian ICP and gongan information for Chinese users. See: https://beian.miit.gov.cn, http://www.beian.gov.cn
   beian:
@@ -97,8 +97,8 @@ creative_commons:
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Muse
-#scheme: Mist
+# scheme: Muse
+scheme: Mist
 #scheme: Pisces
 #scheme: Gemini
 
@@ -116,11 +116,13 @@ darkmode: false
 # When running the site in a subdirectory (e.g. yoursite.com/blog), remove the leading slash from link value (/archives -> archives).
 # External url should start with http:// or https://
 menu:
-  home: / || fa fa-home
+  首頁: / || fa fa-home
   #about: /about/ || fa fa-user
   #tags: /tags/ || fa fa-tags
-  #categories: /categories/ || fa fa-th
-  archives: /archives/ || fa fa-archive
+  如何加入: /join/ || fa fa-users
+  玩家須知: /notice/ || fa fa-exclamation
+  磐石律法: /rule/ || fa fa-gavel
+  文章列表: /archives/ || fa fa-archive
   #schedule: /schedule/ || fa fa-calendar
   #sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat
@@ -177,11 +179,12 @@ site_state: true
 # Key is the link label showing to end users.
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
 social:
-  #GitHub: https://github.com/yourname || fab fa-github
-  #E-Mail: mailto:yourname@gmail.com || fa fa-envelope
+  # GitHub: https://github.com/PttCodingMan || fab fa-github
+  # E-Mail: mailto:pttcodingman@gmail.com || fa fa-envelope
+  # About: /about/ || fas fa-book
   #Weibo: https://weibo.com/yourname || fab fa-weibo
   #Google: https://plus.google.com/yourname || fab fa-google
-  #Twitter: https://twitter.com/yourname || fab fa-twitter
+  # Twitter: https://twitter.com/PttCodingMan || fab fa-twitter
   #FB Page: https://www.facebook.com/yourname || fab fa-facebook
   #StackOverflow: https://stackoverflow.com/yourname || fab fa-stack-overflow
   #YouTube: https://youtube.com/yourname || fab fa-youtube
@@ -236,7 +239,7 @@ excerpt_description: true
 
 # Read more button
 # If true, the read more button will be displayed in excerpt section.
-read_more_btn: true
+read_more_btn: false
 
 # Post meta display settings
 post_meta:
@@ -274,23 +277,10 @@ reward:
 # Subscribe through Telegram Channel, Twitter, etc.
 # Usage: `Key: permalink || icon` (Font Awesome)
 follow_me:
-  #Twitter: https://twitter.com/username || fab fa-twitter
+  # Twitter: https://twitter.com/username || fab fa-twitter
   #Telegram: https://t.me/channel_name || fab fa-telegram
   #WeChat: /images/wechat_channel.jpg || fab fa-weixin
-  #RSS: /atom.xml || fa fa-rss
-
-# Related popular posts
-# Dependencies: https://github.com/tea3/hexo-related-popular-posts
-related_posts:
-  enable: false
-  title: # Custom header, leave empty to use the default one
-  display_in_home: false
-  params:
-    maxCount: 5
-    #PPMixingRate: 0.0
-    #isDate: false
-    #isImage: false
-    #isExcerpt: false
+  # RSS: /atom.xml || fa fa-rss
 
 # Post edit
 # Dependencies: https://github.com/hexojs/hexo-deployer-git
@@ -301,7 +291,7 @@ post_edit:
 
 # Show previous post and next post in post footer if exists
 # Available values: left | right | false
-post_navigation: left
+post_navigation: false
 
 
 # ---------------------------------------------------------------
@@ -354,25 +344,25 @@ codeblock:
   # Code Highlight theme
   # Available values: normal | night | night eighties | night blue | night bright | solarized | solarized dark | galactic
   # See: https://github.com/chriskempson/tomorrow-theme
-  highlight_theme: normal
+  highlight_theme: night
   # Add copy button on codeblock
   copy_button:
-    enable: false
+    enable: true
     # Show text copy result.
-    show_result: false
+    show_result: true
     # Available values: default | flat | mac
-    style:
+    style: default
 
 back2top:
   enable: true
   # Back to top in sidebar.
-  sidebar: false
+  sidebar: true
   # Scroll percent label in b2t button.
-  scrollpercent: false
+  scrollpercent: true
 
 # Reading progress bar
 reading_progress:
-  enable: false
+  enable: true
   # Available values: top | bottom
   position: top
   color: "#37c6c0"
@@ -390,7 +380,7 @@ bookmark:
 # `Follow me on GitHub` banner in the top-right corner.
 github_banner:
   enable: false
-  permalink: https://github.com/yourname
+  permalink: https://github.com/PttCodingMan
   title: Follow me on GitHub
 
 
@@ -739,7 +729,7 @@ algolia_search:
 # Local Search
 # Dependencies: https://github.com/theme-next/hexo-generator-searchdb
 local_search:
-  enable: false
+  enable: true
   # If auto, trigger search by changing input.
   # If manual, trigger search by pressing enter key or search button.
   trigger: auto
@@ -824,7 +814,7 @@ mermaid:
 # For more information: http://velocityjs.org
 motion:
   enable: true
-  async: false
+  async: true
   transition:
     # Transition variants:
     # fadeIn | flipXIn | flipYIn | flipBounceXIn | flipBounceYIn
@@ -848,7 +838,7 @@ pace:
   # Themes list:
   # big-counter | bounce | barber-shop | center-atom | center-circle | center-radar | center-simple
   # corner-indicator | fill-left | flat-top | flash | loading-bar | mac-osx | material | minimal
-  theme: minimal
+  theme: loading-bar
 
 # JavaScript 3D library.
 # Dependencies: https://github.com/theme-next/theme-next-three
