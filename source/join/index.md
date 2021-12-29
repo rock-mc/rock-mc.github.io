@@ -7,7 +7,7 @@ date: 2021-12-29 16:19:55
 </p>
 
 ## 詳讀規則  
-在一切開始之前，請先閱讀 [磐石律法](https://rock-mc.github.io/rule/) 同意每一條規則再加入我們喔 :D  
+在一切開始之前，請先閱讀 [磐石律法](/rule/) 同意每一條規則再加入我們喔 :D  
 
 ## 邀請制  
 磐石伺服器採用了邀請制，目的是希望讓所有玩家都可以一起來維護玩家品質  
@@ -48,5 +48,5 @@ date: 2021-12-29 16:19:55
 例如: /invits verify 459851
 <img src="https://i.imgur.com/pXxRiSk.png" alt="drawing" width="600" style="vertical-align:middle"/>
 
-8. 驗證成功，恭喜你可以開始玩了，註冊成功之後請先閱讀 [玩家須知](https://rock-mc.github.io/notice/)
+8. 驗證成功，恭喜你可以開始玩了，註冊成功之後請先閱讀 [玩家須知](/notice/)
 <img src="https://i.imgur.com/fnazQwN.png" alt="drawing" width="600" style="vertical-align:middle"/>

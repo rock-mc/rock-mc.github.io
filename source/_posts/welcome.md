@@ -5,7 +5,7 @@ date: 2021-12-29 16:08:36
 tags:
 ---
 <p align="center">
-<img src="https://i.imgur.com/1i7pDVq.jpg" alt="drawing" style="vertical-align:middle"/>
+<img src="https://i.imgur.com/1i7pDVq.jpg" alt="drawing" style="vertical-align:middle" width="500"/>
 </p>
 
 磐石伺服器是一個邀請制原味生存 Minecraft 伺服器。  
@@ -20,8 +20,6 @@ tags:
 如果你沒有邀請碼，可以透過面試管道取得邀請碼。
 
 目前正在 **Java 1.18.1** 營運，歡迎加入我們。
-
-**磐石伺服器**
 
 ## 官方社群頻道(外部連結)
 [Discord](https://discord.gg/mCFdwkChBG)
