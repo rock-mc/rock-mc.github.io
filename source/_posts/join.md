@@ -5,7 +5,7 @@ date: 2021-12-29 16:19:55
 hidden: true
 ---
 <p align="center">
-<img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/master/images/wallpaper_small.png" alt="drawing" style="vertical-align:middle"/>
+<img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/master/images/wallpaper_small.png" alt="drawing" style="vertical-align:middle" width="600"/>
 </p>
 
 ## 詳讀規則  
