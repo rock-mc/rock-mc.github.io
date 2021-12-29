@@ -5,7 +5,7 @@ date: 2021-12-29 16:08:36
 tags:
 ---
 <p align="center">
-<img src="https://i.imgur.com/1i7pDVq.jpg" alt="drawing" style="vertical-align:middle" width="500"/>
+<img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/publish/images/2021-09-21_00.26.38.png" alt="drawing" style="vertical-align:middle" width="600"/>
 </p>
 
 磐石伺服器是一個邀請制原味生存 Minecraft 伺服器。  
