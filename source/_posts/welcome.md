@@ -21,9 +21,9 @@ tags:
 
 目前正在 **Java 1.18.1** 營運，歡迎加入我們。
 
-## 官方社群頻道(外部連結)
+## 官方社群頻道
 [Discord](https://discord.gg/mCFdwkChBG)
 
-## 追蹤官方消息(外部連結)
+## 追蹤官方消息
 [Twitter](https://twitter.com/rock_mc_server)
 [Facebook](https://www.facebook.com/rock.mc.server)
