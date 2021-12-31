@@ -160,3 +160,11 @@ hide_posts:
   public_generators: ['tag', 'category', 'archive', 'sitemap', 'feed', 'xml']
   # Add "noindex" meta tag to prevent hidden posts from being indexed by search engines
   noindex: true
+
+
+# searchdb
+search:
+  path: search.xml
+  field: all
+  content: true
+  format: html
