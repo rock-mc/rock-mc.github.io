@@ -2,23 +2,23 @@
 <search>
   <entry>
     <title>歡迎</title>
-    <url>/welcome/</url>
+    <url>/index.html</url>
     <content><![CDATA[<p align="center">
 <img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/publish/images/2021-09-21_00.26.38.png" alt="drawing" style="vertical-align:middle" width="600"/>
 </p>
 
-<p>磐石伺服器是一個邀請制原味生存 Minecraft 伺服器。  </p>
+<p>磐石伺服器是 Java 1.18.1 邀請制原味生存伺服器。  </p>
 <p>目標是提供一個<strong>長期</strong>、<strong>穩定</strong>、<strong>流暢</strong>的伺服器。<br>目前由數位軟體工程師鎮守，務求提供優質的服務給各位。</p>
 <p>我們沒有商店、沒有領地，專注在提供<strong>最流暢的遊玩環境</strong>。<br>盡可能保持最少的插件，有新版本的時候可以用最快的速度升級。<br>更採用<strong>邀請制</strong>，讓每個玩家都可以一起維持玩家品質。  </p>
 <p>如果你沒有邀請碼，可以透過面試管道取得邀請碼。</p>
-<p>目前正在 <strong>Java 1.18.1</strong> 營運，歡迎加入我們。</p>
+<p>如果你也是喜歡 Minecraft 的夥伴，歡迎加入我們。</p>
 <h2 id="官方社群頻道"><a href="#官方社群頻道" class="headerlink" title="官方社群頻道"></a>官方社群頻道</h2><p><a href="https://discord.gg/mCFdwkChBG">Discord</a></p>
 <h2 id="追蹤官方消息"><a href="#追蹤官方消息" class="headerlink" title="追蹤官方消息"></a>追蹤官方消息</h2><p><a href="https://twitter.com/rock_mc_server">Twitter</a><br><a href="https://www.facebook.com/rock.mc.server">Facebook</a></p>
 ]]></content>
   </entry>
   <entry>
     <title>如何加入</title>
-    <url>/join/</url>
+    <url>/join/index.html</url>
     <content><![CDATA[<p align="center">
 <img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/master/images/wallpaper_small.png" alt="drawing" style="vertical-align:middle" width="600"/>
 </p>
@@ -29,7 +29,7 @@
 <ul>
 <li>如果你有磐石伺服器的朋友。<br>用友善的態度，請對方給你邀請碼</li>
 <li>如果你無磐石伺服器的朋友<ul>
-<li>請至 <a href="https://discord.gg/mCFdwkChBG">Discord</a> 標記 @小幫手 或 <br>寄信至客服信箱 <a href="mailto:&#115;&#101;&#x72;&#x76;&#x69;&#99;&#x65;&#x2e;&#x72;&#x6f;&#x63;&#107;&#46;&#109;&#99;&#x40;&#103;&#109;&#x61;&#105;&#x6c;&#x2e;&#x63;&#111;&#x6d;">&#115;&#101;&#x72;&#x76;&#x69;&#99;&#x65;&#x2e;&#x72;&#x6f;&#x63;&#107;&#46;&#109;&#99;&#x40;&#103;&#109;&#x61;&#105;&#x6c;&#x2e;&#x63;&#111;&#x6d;</a> <br>約定面試時間  </li>
+<li>請至 <a href="https://discord.gg/mCFdwkChBG">Discord</a> 標記 @小幫手 或 <br>寄信至客服信箱 <a href="mailto:&#x73;&#x65;&#x72;&#x76;&#105;&#99;&#101;&#x2e;&#114;&#111;&#99;&#x6b;&#x2e;&#x6d;&#x63;&#x40;&#x67;&#x6d;&#97;&#105;&#x6c;&#46;&#99;&#111;&#x6d;">&#x73;&#x65;&#x72;&#x76;&#105;&#99;&#101;&#x2e;&#114;&#111;&#99;&#x6b;&#x2e;&#x6d;&#x63;&#x40;&#x67;&#x6d;&#97;&#105;&#x6c;&#46;&#99;&#111;&#x6d;</a> <br>約定面試時間  </li>
 <li>幹部群會一起面試，面試通過後，即可取得邀請碼</li>
 </ul>
 </li>
@@ -54,11 +54,11 @@
 <li><p>驗證成功，恭喜你可以開始玩了，註冊成功之後請先閱讀 <a href="/notice/">玩家須知</a></p>
 <img src="https://i.imgur.com/fnazQwN.png" alt="drawing" width="600" style="vertical-align:middle"/></li>
 </ol>
-<!-- flag of hidden posts -->]]></content>
+]]></content>
   </entry>
   <entry>
     <title>玩家須知</title>
-    <url>/notice/</url>
+    <url>/notice/index.html</url>
     <content><![CDATA[<p>歡迎各位小石頭的加入！這裡寫了身為小石頭需要的必備知識。</p>
 <hr>
 <h2 id="重生點保護"><a href="#重生點保護" class="headerlink" title="重生點保護"></a>重生點保護</h2><p>伺服器為維護重生點周遭的原始景緻，開了很大的重生點保護。<br>請各位小石頭，順著標示路徑可以到隨機傳送祭壇即可自己行生存囉！<br>或者也可以自行跑到保護區範圍外再開始生存喔！<br>目前設定為半徑 1024 格。</p>
@@ -160,11 +160,11 @@
 </ul>
 </li>
 </ul>
-<!-- flag of hidden posts -->]]></content>
+]]></content>
   </entry>
   <entry>
     <title>磐石律法</title>
-    <url>/rule/</url>
+    <url>/rule/index.html</url>
     <content><![CDATA[<h2 id="請詳讀並遵守以下規則："><a href="#請詳讀並遵守以下規則：" class="headerlink" title="請詳讀並遵守以下規則："></a>請詳讀並遵守以下規則：</h2><h3 id="1-文字及對話類-名稱、公開聊天"><a href="#1-文字及對話類-名稱、公開聊天" class="headerlink" title="1. 文字及對話類(名稱、公開聊天)"></a>1. 文字及對話類(名稱、公開聊天)</h3><ul>
 <li>1-1. 任何出現在伺服器的事物，請勿違反社會善良風俗。  <br>　　包括：ID、暱稱  </li>
 <li>1-2. 言論自由應以建立在不讓他人不自在不舒服為前提之下，  <br>　　為良善聊天環境，請勿於公開聊天頻道口無遮攔。  <br>　　包括：髒話、種族歧視、貶低他人用語、騷擾…等  </li>
@@ -204,6 +204,6 @@
 <br>
 
 <h3 id="所有規則將視情況補充調整。違反者，將由幹部群視違反程度決定罰則內容。"><a href="#所有規則將視情況補充調整。違反者，將由幹部群視違反程度決定罰則內容。" class="headerlink" title="所有規則將視情況補充調整。違反者，將由幹部群視違反程度決定罰則內容。"></a>所有規則將視情況補充調整。<br>違反者，將由幹部群視違反程度決定罰則內容。</h3><p><strong>20210804 修訂</strong></p>
-<!-- flag of hidden posts -->]]></content>
+]]></content>
   </entry>
 </search>
