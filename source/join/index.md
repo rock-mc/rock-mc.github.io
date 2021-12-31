@@ -1,8 +1,6 @@
 ---
 title: 如何加入
-abbrlink: join
-date: 2021-12-29 16:19:55
-hidden: true
+date: 2021-12-31 22:09:55
 ---
 <p align="center">
 <img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/master/images/wallpaper_small.png" alt="drawing" style="vertical-align:middle" width="600"/>

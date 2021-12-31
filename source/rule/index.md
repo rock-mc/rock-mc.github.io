@@ -1,8 +1,6 @@
 ---
 title: 磐石律法
-abbrlink: rule
-date: 2021-12-29 16:47:40
-hidden: true
+date: 2021-12-31 22:10:35
 ---
 ## 請詳讀並遵守以下規則：
 
