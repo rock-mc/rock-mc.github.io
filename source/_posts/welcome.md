@@ -1,6 +1,8 @@
 ---
 title: 歡迎
-date: 2021-12-31 22:11:40
+abbrlink: 195c
+date: 2022-01-01 21:49:10
+tags:
 ---
 <p align="center">
 <img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/publish/images/2021-09-21_00.26.38.png" alt="drawing" style="vertical-align:middle" width="600"/>
@@ -17,7 +19,7 @@ date: 2021-12-31 22:11:40
   
 如果你沒有邀請碼，可以透過面試管道取得邀請碼。
 
-如果你也是喜歡 Minecraft 的夥伴，歡迎加入我們。
+如果你也是喜歡 Minecraft 的夥伴，誠摯邀請你加入我們。
 
 ## 官方社群頻道
 [Discord](https://discord.gg/mCFdwkChBG)
