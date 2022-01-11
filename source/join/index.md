@@ -10,19 +10,15 @@ date: 2021-12-31 22:09:55
 在一切開始之前，請先閱讀 [磐石律法](/rule/) 同意每一條規則再加入我們喔 :D  
 
 ## 邀請制  
-磐石伺服器採用了邀請制，目的是希望讓所有玩家都可以一起來維護玩家品質  
-邀請制功能是採用自家工程師開發的 [InvitationSystem](https://github.com/rock-mc/InvitationSystem) 有問題可以快速修改  
+磐石伺服器採用了驗證碼白名單系統  
+功能是採用自家工程師開發的 [InvitationSystem](https://github.com/rock-mc/InvitationSystem) 有問題可以快速修改  
 
-如果你還沒有邀請碼，有兩個方法可以取得：
- - 如果你有磐石伺服器的朋友
-    - 用友善的態度，請對方給你邀請碼
- - 如果你無磐石伺服器的朋友
-    - 請至 [Discord](https://discord.gg/mCFdwkChBG) 標記 @小幫手 或寄信至客服信箱 service.rock.mc@gmail.com 約定面試時間  
-    - 幹部群會一起面試，面試通過後，即可取得邀請碼
+如果你還沒有邀請碼
+> 請至 [Discord](https://discord.gg/mCFdwkChBG) 標記 @小幫手，幹部群會一起面試，面試通過後，即可取得邀請碼
 
-在你擁有邀請碼後，關於邀請制須知道一件事情：  
-加入伺服器後，你會擁有**兩個**邀請配額，請謹慎地挑選你邀請的對象  
-如果你推薦的玩家被踢出，視情節將會影響你的 **遊玩權限** 與 **邀請配額**  
+在你擁有邀請碼後，關於邀請制度你需要知道一件事情  
+加入伺服器後，請謹慎地挑選你邀請的對象  
+如果你推薦的玩家被踢出，將會影響你的推薦指數
 
 
 ## 開始遊戲
@@ -46,7 +42,7 @@ date: 2021-12-31 22:09:55
 <img src="https://i.imgur.com/sdSJFi6.png" alt="drawing" width="600" style="vertical-align:middle"/>
 
 7. 此時請輸入驗證指令與你取得的邀請碼  
-例如: /invits verify 459851
+例如: ```/invits verify 459851```
 <img src="https://i.imgur.com/pXxRiSk.png" alt="drawing" width="600" style="vertical-align:middle"/>
 
 8. 驗證成功，恭喜你可以開始玩了，註冊成功之後請先閱讀 [玩家須知](/notice/)
