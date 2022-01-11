@@ -11,7 +11,7 @@
 <p>目標是提供一個<strong>長期</strong>、<strong>穩定</strong>、<strong>流暢</strong>的伺服器。<br>目前由數位軟體工程師鎮守，務求提供優質的服務給各位。</p>
 <p>我們專注在提供流暢的遊玩環境。<br>盡可能使用最少的插件，有新版本的時候可以用最快的速度升級。  </p>
 <p>超大保護區加上隨機傳送的設定，<br>讓每個新玩家一進來都感覺好像伺服器剛開一樣。</p>
-<p>最後如果你想要一個溫馨、簡單的伺服器。<br>誠摯邀請你加入我們。</p>
+<p>最後<br>如果你想要一個溫馨、簡單的伺服器。<br>誠摯邀請你加入我們。</p>
 <h2 id="官方社群頻道"><a href="#官方社群頻道" class="headerlink" title="官方社群頻道"></a>官方社群頻道</h2><p><a href="https://discord.gg/mCFdwkChBG">Discord</a></p>
 <h2 id="追蹤官方消息"><a href="#追蹤官方消息" class="headerlink" title="追蹤官方消息"></a>追蹤官方消息</h2><p><a href="https://twitter.com/rock_mc_server">Twitter</a><br><a href="https://www.facebook.com/rock.mc.server">Facebook</a></p>
 ]]></content>
@@ -24,20 +24,12 @@
 </p>
 
 <h2 id="詳讀規則"><a href="#詳讀規則" class="headerlink" title="詳讀規則"></a>詳讀規則</h2><p>在一切開始之前，請先閱讀 <a href="/rule/">磐石律法</a> 同意每一條規則再加入我們喔 :D  </p>
-<h2 id="邀請制"><a href="#邀請制" class="headerlink" title="邀請制"></a>邀請制</h2><p>磐石伺服器採用了邀請制，目的是希望讓所有玩家都可以一起來維護玩家品質<br>邀請制功能是採用自家工程師開發的 <a href="https://github.com/rock-mc/InvitationSystem">InvitationSystem</a> 有問題可以快速修改  </p>
-<p>如果你還沒有邀請碼，有兩個方法可以取得：</p>
-<ul>
-<li>如果你有磐石伺服器的朋友<ul>
-<li>用友善的態度，請對方給你邀請碼</li>
-</ul>
-</li>
-<li>如果你無磐石伺服器的朋友<ul>
-<li>請至 <a href="https://discord.gg/mCFdwkChBG">Discord</a> 標記 @小幫手 或寄信至客服信箱 <a href="mailto:&#115;&#101;&#114;&#118;&#x69;&#x63;&#x65;&#x2e;&#114;&#111;&#99;&#107;&#46;&#x6d;&#x63;&#64;&#x67;&#x6d;&#x61;&#x69;&#108;&#x2e;&#99;&#111;&#x6d;">&#115;&#101;&#114;&#118;&#x69;&#x63;&#x65;&#x2e;&#114;&#111;&#99;&#107;&#46;&#x6d;&#x63;&#64;&#x67;&#x6d;&#x61;&#x69;&#108;&#x2e;&#99;&#111;&#x6d;</a> 約定面試時間  </li>
-<li>幹部群會一起面試，面試通過後，即可取得邀請碼</li>
-</ul>
-</li>
-</ul>
-<p>在你擁有邀請碼後，關於邀請制須知道一件事情：<br>加入伺服器後，你會擁有<strong>兩個</strong>邀請配額，請謹慎地挑選你邀請的對象<br>如果你推薦的玩家被踢出，視情節將會影響你的 <strong>遊玩權限</strong> 與 <strong>邀請配額</strong>  </p>
+<h2 id="邀請制"><a href="#邀請制" class="headerlink" title="邀請制"></a>邀請制</h2><p>磐石伺服器採用了驗證碼白名單系統<br>功能是採用自家工程師開發的 <a href="https://github.com/rock-mc/InvitationSystem">InvitationSystem</a> 有問題可以快速修改  </p>
+<p>如果你還沒有邀請碼</p>
+<blockquote>
+<p>請至 <a href="https://discord.gg/mCFdwkChBG">Discord</a> 標記 @小幫手，幹部群會一起面試，面試通過後，即可取得邀請碼</p>
+</blockquote>
+<p>在你擁有邀請碼後，關於邀請制度你需要知道一件事情<br>加入伺服器後，請謹慎地挑選你邀請的對象<br>如果你推薦的玩家被踢出，將會影響你的推薦指數</p>
 <h2 id="開始遊戲"><a href="#開始遊戲" class="headerlink" title="開始遊戲"></a>開始遊戲</h2><p>由於有開啟正版驗證，如果沒有 Java edition 正版帳號可以去各大便利超商購買呦！</p>
 <ol>
 <li><p>選擇遊玩版本 1.18.1，點選<strong>開始遊戲</strong></p>
@@ -52,7 +44,7 @@
 <img src="https://i.imgur.com/qAyR0UE.png" alt="drawing" width="600" style="vertical-align:middle"/></li>
 <li><p>進入伺服器因為尚未通過驗證，會無法移動、發言，同時也免疫所有傷害</p>
 <img src="https://i.imgur.com/sdSJFi6.png" alt="drawing" width="600" style="vertical-align:middle"/></li>
-<li><p>此時請輸入驗證指令與你取得的邀請碼<br>例如: /invits verify 459851</p>
+<li><p>此時請輸入驗證指令與你取得的邀請碼<br>例如: <code>/invits verify 459851</code></p>
 <img src="https://i.imgur.com/pXxRiSk.png" alt="drawing" width="600" style="vertical-align:middle"/></li>
 <li><p>驗證成功，恭喜你可以開始玩了，註冊成功之後請先閱讀 <a href="/notice/">玩家須知</a></p>
 <img src="https://i.imgur.com/fnazQwN.png" alt="drawing" width="600" style="vertical-align:middle"/></li>
@@ -63,16 +55,11 @@
     <title>玩家須知</title>
     <url>/notice/index.html</url>
     <content><![CDATA[<p>歡迎各位小石頭的加入！這裡寫了身為小石頭需要的必備知識。</p>
-<hr>
-<h2 id="重生點保護"><a href="#重生點保護" class="headerlink" title="重生點保護"></a>重生點保護</h2><p>伺服器為維護重生點周遭的原始景緻，開了很大的重生點保護。<br>請各位小石頭，順著標示路徑可以到隨機傳送祭壇即可自己行生存囉！<br>或者也可以自行跑到保護區範圍外再開始生存喔！<br>目前設定為半徑 1024 格。</p>
-<hr>
-<h2 id="Discord-綁定"><a href="#Discord-綁定" class="headerlink" title="Discord 綁定"></a>Discord 綁定</h2><p>驗證完成之後，請使用 <code>/discord link</code> 取得的驗證碼，<br>丟給 Discord 的磐石機器人喔！</p>
-<hr>
-<h2 id="邀請新石頭"><a href="#邀請新石頭" class="headerlink" title="邀請新石頭"></a>邀請新石頭</h2><p>你可以使用 <code>/invits gencode</code> 指令產生新的驗證碼來邀請你的朋友，<br>每個人最多只能產生 2 個驗證碼，請慎選好友並小心保存。<br>若玩家出現嚴重不當行為，會有相關連帶責任及懲處。</p>
-<hr>
-<h2 id="紀錄查詢"><a href="#紀錄查詢" class="headerlink" title="紀錄查詢"></a>紀錄查詢</h2><p>本伺服器嚴格禁止任何影響他人的行為(詳見 <a href="/rule/">磐石律法</a>)，<br>如有任何疑似破壞、偷竊的行為，<br>可以拿著木棍使用 <code>/co i</code> 開啟查詢模式查詢後截圖給管理員即可。<br>查詢過後記得還要再一次 <code>/co i</code> 關閉查詢功能喔！</p>
-<hr>
-<h2 id="指令教學"><a href="#指令教學" class="headerlink" title="指令教學"></a>指令教學</h2><h3 id="邀請制相關指令"><a href="#邀請制相關指令" class="headerlink" title="邀請制相關指令"></a>邀請制相關指令</h3><p>&lt;&gt; 表示一定要輸入的欄位<br>[] 表示可以選擇輸入或不輸入</p>
+<h3 id="重生點保護"><a href="#重生點保護" class="headerlink" title="重生點保護"></a>重生點保護</h3><p>伺服器為維護重生點周遭的原始景緻，開了很大的重生點保護。<br>請各位小石頭，順著標示路徑可以到隨機傳送祭壇即可自己行生存囉！<br>或者也可以自行跑到保護區範圍外再開始生存喔！<br>目前設定為半徑 1024 格。</p>
+<h3 id="Discord-綁定"><a href="#Discord-綁定" class="headerlink" title="Discord 綁定"></a>Discord 綁定</h3><p>驗證完成之後，請使用 <code>/discord link</code> 取得的驗證碼，<br>丟給 Discord 的磐石機器人喔！</p>
+<h3 id="邀請新石頭"><a href="#邀請新石頭" class="headerlink" title="邀請新石頭"></a>邀請新石頭</h3><p>你可以使用 <code>/invits gencode</code> 指令產生新的驗證碼來邀請你的朋友，<br>每個人最多只能產生 2 個驗證碼，請慎選好友並小心保存。<br>若玩家出現嚴重不當行為，會有相關連帶責任及懲處。</p>
+<h3 id="紀錄查詢"><a href="#紀錄查詢" class="headerlink" title="紀錄查詢"></a>紀錄查詢</h3><p>本伺服器嚴格禁止任何影響他人的行為(詳見 <a href="/rule/">磐石律法</a>)，<br>如有任何疑似破壞、偷竊的行為，<br>可以拿著木棍使用 <code>/co i</code> 開啟查詢模式查詢後截圖給管理員即可。<br>查詢過後記得還要再一次 <code>/co i</code> 關閉查詢功能喔！</p>
+<h3 id="邀請制相關指令"><a href="#邀請制相關指令" class="headerlink" title="邀請制相關指令"></a>邀請制相關指令</h3><p>&lt;&gt; 表示一定要輸入的欄位<br>[] 表示可以選擇輸入或不輸入</p>
 <ul>
 <li><code>/invits verify &lt;code&gt;</code><ul>
 <li>新玩家驗證使用</li>
@@ -89,7 +76,8 @@
 </ul>
 </li>
 </ul>
-<h3 id="鎖箱指令"><a href="#鎖箱指令" class="headerlink" title="鎖箱指令"></a>鎖箱指令</h3><ul>
+<h3 id="鎖箱指令"><a href="#鎖箱指令" class="headerlink" title="鎖箱指令"></a>鎖箱指令</h3><p>可以用來鎖箱子也可以鎖門喔！</p>
+<ul>
 <li><code>/lwc</code> <ul>
 <li>查看 LWC 指令說明</li>
 </ul>
@@ -160,6 +148,21 @@
 <li>右鍵放置一個方塊來查看該位置原方塊的移除訊息。</li>
 <li>右鍵放置一個方塊來查看原有方塊的放置訊息。<br>(例如：將泥土放置在水中來查看水源的相關訊息)</li>
 <li>右鍵點擊互動物件(門、按鈕、拉桿、箱子等)查看其使用訊息。</li>
+</ul>
+</li>
+</ul>
+<h3 id="Home-點指令"><a href="#Home-點指令" class="headerlink" title="Home 點指令"></a>Home 點指令</h3><p>設置經常往來的座標</p>
+<ul>
+<li><code>/sethome [名稱]</code><ul>
+<li>設置一個點</li>
+</ul>
+</li>
+<li><code>/delhome [名稱]</code><ul>
+<li>刪除一個點</li>
+</ul>
+</li>
+<li><code>/home [名稱]</code><ul>
+<li>回到你設置的點</li>
 </ul>
 </li>
 </ul>
