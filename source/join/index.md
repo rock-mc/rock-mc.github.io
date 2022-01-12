@@ -2,11 +2,6 @@
 title: 如何加入
 date: 2021-12-31 22:09:55
 ---
-<p align="center">
-<img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/master/images/wallpaper_small.png" alt="drawing" style="vertical-align:middle" width="600"/>
-</p>
-
-## 詳讀規則  
 在一切開始之前，請先閱讀 [磐石律法](/rule/) 同意每一條規則再加入我們喔 :D  
 
 ## 邀請制  
