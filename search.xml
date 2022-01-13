@@ -7,10 +7,9 @@
 <img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/publish/images/2021-09-21_00.26.38.png" alt="drawing" style="vertical-align:middle" width="600"/>
 </p>
 
-<p>磐石伺服器是 Java 1.18.1 原味生存伺服器。  </p>
-<p>目標是提供一個<strong>長期</strong>、<strong>穩定</strong>、<strong>流暢</strong>的伺服器。<br>目前由數位軟體工程師鎮守，務求提供優質的伺服器給各位。</p>
+<p><strong>磐石伺服器</strong> - Java 1.18.1 原味生存伺服器  </p>
+<p>目標是提供一個<strong>長期</strong>、<strong>穩定</strong>、<strong>流暢</strong>的伺服器。<br>目前由數位軟體工程師鎮守，務求提供優質的環境給各位。</p>
 <p>我們專注在提供流暢的遊玩環境。<br>盡可能使用最少的插件，有新版本的時候可以用最快的速度升級。  </p>
-<p>保護區維持原始樣貌加上隨機傳送，<br>讓每個新玩家都覺得伺服器跟剛開一樣。</p>
 <p>如果你想要一個溫馨、簡單的伺服器。<br>誠摯邀請你加入我們。</p>
 <h2 id="官方社群頻道"><a href="#官方社群頻道" class="headerlink" title="官方社群頻道"></a>官方社群頻道</h2><p><a href="https://discord.gg/mCFdwkChBG">Discord</a></p>
 <h2 id="追蹤官方消息"><a href="#追蹤官方消息" class="headerlink" title="追蹤官方消息"></a>追蹤官方消息</h2><p><a href="https://twitter.com/rock_mc_server">Twitter</a><br><a href="https://www.facebook.com/rock.mc.server">Facebook</a></p>
@@ -22,7 +21,7 @@
     <content><![CDATA[<p>在一切開始之前，請先閱讀 <a href="/rule/">磐石律法</a> 同意每一條規則再加入我們喔 :D  </p>
 <h2 id="邀請制"><a href="#邀請制" class="headerlink" title="邀請制"></a>邀請制</h2><p>磐石伺服器採用了驗證碼白名單系統<br>功能是採用自家工程師開發的 <a href="https://github.com/rock-mc/InvitationSystem">InvitationSystem</a> 有問題可以快速修改  </p>
 <blockquote>
-<p>請至 <a href="https://discord.gg/mCFdwkChBG">Discord</a> 於新人頻道填寫表單後，標記 @小幫手，會有兩位幹部會一起面試，面試通過後，即可取得邀請碼</p>
+<p>請至 <a href="https://discord.gg/mCFdwkChBG">Discord</a> 於新人頻道填寫表單後，標記 @小幫手<br>會有兩位幹部會一起面試，面試通過後，即可取得邀請碼</p>
 </blockquote>
 <h2 id="開始遊戲"><a href="#開始遊戲" class="headerlink" title="開始遊戲"></a>開始遊戲</h2><p>由於有開啟正版驗證，如果沒有 Java edition 正版帳號可以去各大便利超商購買呦！</p>
 <ol>
@@ -49,8 +48,11 @@
     <title>玩家須知</title>
     <url>/notice/index.html</url>
     <content><![CDATA[<p>歡迎各位小石頭的加入！這裡寫了身為小石頭需要的必備知識。</p>
-<h3 id="出生點保護區"><a href="#出生點保護區" class="headerlink" title="出生點保護區"></a>出生點保護區</h3><p>伺服器為維護出生點周遭的原始景緻，<br>避免比較資深的玩家佔用了較近的地點及資源，<br>讓新玩家不會初入時一眼望去皆是高度開發的無力感，<br>我們於出生點範圍開了很大的保護區。<br>加上隱藏的隨機傳送點，<br>讓玩家可以選擇以隨機出生的方式，<br>在以出生點為中心的一定範圍外生存。<br>如果你是生存孤狼，<br>這可以是與其他玩家保持有點遠但又舒適的距離；<br>當然如果怕寂寞的，只要詢問過其他玩家，<br>要選擇傳送過去一起蓋個小聚落也是OK的。<br>或者也可以自行跑到保護區範圍外再開始生存喔！<br>目前設定約為半徑 1000多格的範圍內。<br>(簡單辨識方法：無法建築及破壞方塊、低光源不生怪)</p>
-<h3 id="Discord-綁定"><a href="#Discord-綁定" class="headerlink" title="Discord 綁定"></a>Discord 綁定</h3><p>驗證完成之後，請使用 <code>/discord link</code> 取得的驗證碼，<br>丟給 Discord 的磐石機器人喔！</p>
+<h3 id="出生點保護區"><a href="#出生點保護區" class="headerlink" title="出生點保護區"></a>出生點保護區</h3><p>伺服器為維護出生點周遭的原始景緻，<br>避免資深玩家佔用了周遭的地點及資源。</p>
+<p>讓新玩家不會一眼望去皆是高度開發的無力感。</p>
+<p>於是我們開了大範圍保護區維持原始景緻，<br>並加上隨機傳送功能，<br>讓玩家可以選擇以隨機地點開始生存，或者自行前往保護區範圍外。</p>
+<p>保護區目前設定約為半徑 1000 格<br>注意：跑到保護區外才可以破壞方塊喔！</p>
+<h3 id="Discord綁定"><a href="#Discord綁定" class="headerlink" title="Discord綁定"></a>Discord綁定</h3><p>驗證完成之後，請使用 <code>/discord link</code> 取得的驗證碼，<br>丟給 Discord 的磐石機器人喔！</p>
 <h3 id="邀請新石頭"><a href="#邀請新石頭" class="headerlink" title="邀請新石頭"></a>邀請新石頭</h3><p>你可以提供 <a href="https://discord.gg/mCFdwkChBG">Discord</a> 連結來邀請你的朋友，<br>有填寫朋友ID或暱稱可以透過認識加速管理面試流程</p>
 <h3 id="紀錄查詢"><a href="#紀錄查詢" class="headerlink" title="紀錄查詢"></a>紀錄查詢</h3><p>本伺服器嚴格禁止任何影響他人的行為(詳見 <a href="/rule/">磐石律法</a>)，<br>如有任何疑似破壞、偷竊的行為，<br>可以使用 <code>/co i</code> 開啟查詢模式點選方塊，<br>查詢後截圖給管理員即可。<br>查詢過後記得還要再一次 <code>/co i</code> 關閉查詢功能喔！</p>
 <h3 id="邀請制相關指令"><a href="#邀請制相關指令" class="headerlink" title="邀請制相關指令"></a>邀請制相關指令</h3><p>&lt;&gt; 表示一定要輸入的欄位<br>[] 表示可以選擇輸入或不輸入</p>
@@ -109,7 +111,7 @@
 </ul>
 </li>
 </ul>
-<h3 id="傳送指令-tpa"><a href="#傳送指令-tpa" class="headerlink" title="傳送指令(tpa)"></a>傳送指令(tpa)</h3><p>開放玩家傳送至其他玩家所在位置<br>(冷卻時間為5分鐘與home指令共用)</p>
+<h3 id="傳送指令"><a href="#傳送指令" class="headerlink" title="傳送指令"></a>傳送指令</h3><p>開放玩家傳送至其他玩家所在位置<br>冷卻時間為5分鐘與 home 指令共用</p>
 <ul>
 <li><code>/tpa &lt;player ID&gt;</code><ul>
 <li>請求傳送到一個玩家身邊</li>
@@ -139,7 +141,7 @@
 </ul>
 </li>
 </ul>
-<h3 id="據點指令Home"><a href="#據點指令Home" class="headerlink" title="據點指令Home"></a>據點指令Home</h3><p>設置經常往來的座標，目前預設有三個點可用<br>(冷卻時間為5分鐘與tpa指令共用)</p>
+<h3 id="據點指令"><a href="#據點指令" class="headerlink" title="據點指令"></a>據點指令</h3><p>設置經常往來的座標，目前預設有三個點可用<br>(冷卻時間為5分鐘與tpa指令共用)</p>
 <ul>
 <li><code>/sethome [名稱]</code><ul>
 <li>設置一個點</li>
@@ -159,7 +161,7 @@
   <entry>
     <title>磐石律法</title>
     <url>/rule/index.html</url>
-    <content><![CDATA[<h2 id="請詳讀並遵守以下規則："><a href="#請詳讀並遵守以下規則：" class="headerlink" title="請詳讀並遵守以下規則："></a>請詳讀並遵守以下規則：</h2><h3 id="文字及對話類-名稱、公開聊天"><a href="#文字及對話類-名稱、公開聊天" class="headerlink" title="文字及對話類(名稱、公開聊天)"></a>文字及對話類(名稱、公開聊天)</h3><ol>
+    <content><![CDATA[<h1 id="請詳讀並遵守以下規則"><a href="#請詳讀並遵守以下規則" class="headerlink" title="請詳讀並遵守以下規則"></a>請詳讀並遵守以下規則</h1><h3 id="文字及對話類"><a href="#文字及對話類" class="headerlink" title="文字及對話類"></a>文字及對話類</h3><ol>
 <li>任何出現在伺服器的事物，請勿違反社會善良風俗。<ul>
 <li> 包括：ID、暱稱</li>
 </ul>
@@ -174,7 +176,7 @@
 </ul>
 </li>
 </ol>
-<h3 id="行為及建築類-濫用漏洞、影響伺服"><a href="#行為及建築類-濫用漏洞、影響伺服" class="headerlink" title="行為及建築類(濫用漏洞、影響伺服)"></a>行為及建築類(濫用漏洞、影響伺服)</h3><ol>
+<h3 id="行為及建築類"><a href="#行為及建築類" class="headerlink" title="行為及建築類"></a>行為及建築類</h3><ol>
 <li>請勿影響他人遊戲體驗。例如：<ul>
 <li>未經對方同意 PVP</li>
 <li>隨意拿取明顯他人區域內物品或殺戮其圈養生物(牽繩、圍欄、建築內…等)</li>
@@ -196,11 +198,11 @@
 <li>請勿使用無法調整時間的連閃器<br>說明：指無法調整時間延遲，由 not 閘構成的閃爍器<img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/master/images/BuildRule01.gif" alt="drawing" width="275" style="vertical-align:middle"/>
 請多使用中繼器增加時間延遲並加上開關的閃爍器，不使用時可以關閉。
 <img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/master/images/BuildRule02.gif" alt="drawing" width="275" style="vertical-align:middle"/> <img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/master/images/BuildRule03.gif" alt="drawing" width="275" style="vertical-align:middle"/>  </li>
-<li>空中路徑請建築在高度 230 以上<br>我們希望你的空中路徑是不會影響到他人住家的景觀，<br>並且請使用<strong>垂直往上</strong>的方式建造你前往空中路徑的建築。<br>(如攀爬梯、螺旋走道…等)<br><img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/master/images/BuildRule04.png" alt="drawing" width="275" style="vertical-align:middle"/> <img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/master/images/BuildRule05.png" alt="drawing" width="275" style="vertical-align:middle"/>  </li>
+<li>空中路徑請建築在高度 300 以上<br>我們希望你的空中路徑是不會影響到他人住家的景觀，<br>並且請使用<strong>垂直往上</strong>的方式建造你前往空中路徑的建築。<br>(如攀爬梯、螺旋走道…等)<br><img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/master/images/BuildRule04.png" alt="drawing" width="275" style="vertical-align:middle"/> <img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/master/images/BuildRule05.png" alt="drawing" width="275" style="vertical-align:middle"/>  </li>
 </ol>
-<h3 id="官方類-官方行為、判決-懲處、邀請制、規定相關"><a href="#官方類-官方行為、判決-懲處、邀請制、規定相關" class="headerlink" title="官方類(官方行為、判決/懲處、邀請制、規定相關)"></a>官方類(官方行為、判決/懲處、邀請制、規定相關)</h3><ol>
+<h3 id="官方類"><a href="#官方類" class="headerlink" title="官方類"></a>官方類</h3><ol>
 <li>官方本著公平公正立場判決，發布判決後，請尊重判決結果，雙方請勿無限上綱</li>
-<li>判決結果後請勿秋後算帳、挾怨報復，  <br>　　包含械鬥或互嗆或暗喻官方處理結果，官方視情況得以連續開罰</li>
+<li>判決結果後請勿秋後算帳、挾怨報復，<br>包含械鬥或互嗆或暗喻官方處理結果，官方視情況得以連續開罰</li>
 <li>視嚴重性除原懲處人外，其邀請者及邀請其者也有連帶責任，請慎選或約束邀請者</li>
 <li>請勿謠傳錯誤規定或扭曲釋義</li>
 <li>若對新發布或既定規定有發現錯誤或異議者請至意見信箱申訴或回覆</li>
