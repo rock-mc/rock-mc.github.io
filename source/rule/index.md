@@ -33,7 +33,7 @@ date: 2021-12-31 22:10:35
       <img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/master/images/BuildRule01.gif" alt="drawing" width="275" style="vertical-align:middle"/>
       請多使用中繼器增加時間延遲並加上開關的閃爍器，不使用時可以關閉。
       <img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/master/images/BuildRule02.gif" alt="drawing" width="275" style="vertical-align:middle"/> <img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/master/images/BuildRule03.gif" alt="drawing" width="275" style="vertical-align:middle"/>  
-   5. 空中路徑請建築在高度 230 以上
+   5. 空中路徑請建築在高度 300 以上
       我們希望你的空中路徑是不會影響到他人住家的景觀，
       並且請使用**垂直往上**的方式建造你前往空中路徑的建築。
       (如攀爬梯、螺旋走道…等)
@@ -41,7 +41,8 @@ date: 2021-12-31 22:10:35
 
 ### 官方類(官方行為、判決/懲處、邀請制、規定相關)
    1. 官方本著公平公正立場判決，發布判決後，請尊重判決結果，雙方請勿無限上綱
-   2. 判決結果後請勿秋後算帳、挾怨報復，  <br>　　包含械鬥或互嗆或暗喻官方處理結果，官方視情況得以連續開罰
+   2. 判決結果後請勿秋後算帳、挾怨報復，
+   包含械鬥或互嗆或暗喻官方處理結果，官方視情況得以連續開罰
    3. 視嚴重性除原懲處人外，其邀請者及邀請其者也有連帶責任，請慎選或約束邀請者
    4. 請勿謠傳錯誤規定或扭曲釋義
    5. 若對新發布或既定規定有發現錯誤或異議者請至意見信箱申訴或回覆
