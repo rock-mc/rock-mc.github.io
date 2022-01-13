@@ -21,11 +21,9 @@
     <url>/join/index.html</url>
     <content><![CDATA[<p>在一切開始之前，請先閱讀 <a href="/rule/">磐石律法</a> 同意每一條規則再加入我們喔 :D  </p>
 <h2 id="邀請制"><a href="#邀請制" class="headerlink" title="邀請制"></a>邀請制</h2><p>磐石伺服器採用了驗證碼白名單系統<br>功能是採用自家工程師開發的 <a href="https://github.com/rock-mc/InvitationSystem">InvitationSystem</a> 有問題可以快速修改  </p>
-<p>如果你還沒有邀請碼</p>
 <blockquote>
-<p>請至 <a href="https://discord.gg/mCFdwkChBG">Discord</a> 標記 @小幫手，幹部群會一起面試，面試通過後，即可取得邀請碼</p>
+<p>請至 <a href="https://discord.gg/mCFdwkChBG">Discord</a> 於新人頻道填寫表單後，標記 @小幫手，會有兩位幹部會一起面試，面試通過後，即可取得邀請碼</p>
 </blockquote>
-<p>在你擁有邀請碼後，關於邀請制度你需要知道一件事情<br>加入伺服器後，請謹慎地挑選你邀請的對象<br>如果你推薦的玩家被踢出，將會影響你的推薦指數</p>
 <h2 id="開始遊戲"><a href="#開始遊戲" class="headerlink" title="開始遊戲"></a>開始遊戲</h2><p>由於有開啟正版驗證，如果沒有 Java edition 正版帳號可以去各大便利超商購買呦！</p>
 <ol>
 <li><p>選擇遊玩版本 1.18.1，點選<strong>開始遊戲</strong></p>
@@ -34,7 +32,7 @@
 <img src="https://i.imgur.com/CFyqpt9.png" alt="drawing" width="600" style="vertical-align:middle"/>  </li>
 <li><p>點選<strong>新增伺服器</strong></p>
 <img src="https://i.imgur.com/c7rXjGC.png" alt="drawing" width="600" style="vertical-align:middle"/></li>
-<li><p><strong>伺服器名稱</strong>可任意填寫，<strong>伺服器位址</strong>請填寫 <strong>rock-mc.com</strong> 之後，點選<strong>完成</strong></p>
+<li><p><strong>伺服器名稱</strong>可任意填寫，<strong>伺服器位址</strong>請輸入 <code>rock-mc.com</code> ，點選<strong>完成</strong></p>
 <img src="https://i.imgur.com/8fetGMn.png" alt="drawing" width="600" style="vertical-align:middle"/></li>
 <li><p>如果可以看到伺服器資訊就成功新增囉，點選伺服器再選<strong>加入伺服器</strong>就可以進去了</p>
 <img src="https://i.imgur.com/qAyR0UE.png" alt="drawing" width="600" style="vertical-align:middle"/></li>
