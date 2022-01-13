@@ -8,12 +8,8 @@ date: 2021-12-31 22:09:55
 磐石伺服器採用了驗證碼白名單系統  
 功能是採用自家工程師開發的 [InvitationSystem](https://github.com/rock-mc/InvitationSystem) 有問題可以快速修改  
 
-如果你還沒有邀請碼
-> 請至 [Discord](https://discord.gg/mCFdwkChBG) 標記 @小幫手，幹部群會一起面試，面試通過後，即可取得邀請碼
-
-在你擁有邀請碼後，關於邀請制度你需要知道一件事情  
-加入伺服器後，請謹慎地挑選你邀請的對象  
-如果你推薦的玩家被踢出，將會影響你的推薦指數
+> 請至 [Discord](https://discord.gg/mCFdwkChBG) 於新人頻道填寫表單後，標記 @小幫手
+> 會有兩位幹部會一起面試，面試通過後，即可取得邀請碼
 
 
 ## 開始遊戲
@@ -27,7 +23,7 @@ date: 2021-12-31 22:09:55
 3. 點選**新增伺服器**
 <img src="https://i.imgur.com/c7rXjGC.png" alt="drawing" width="600" style="vertical-align:middle"/>
 
-4. **伺服器名稱**可任意填寫，**伺服器位址**請填寫 **rock-mc.com** 之後，點選**完成**
+4. **伺服器名稱**可任意填寫，**伺服器位址**請輸入 ```rock-mc.com``` ，點選**完成**
 <img src="https://i.imgur.com/8fetGMn.png" alt="drawing" width="600" style="vertical-align:middle"/>
 
 5. 如果可以看到伺服器資訊就成功新增囉，點選伺服器再選**加入伺服器**就可以進去了

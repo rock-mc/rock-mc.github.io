@@ -2,9 +2,9 @@
 title: 磐石律法
 date: 2021-12-31 22:10:35
 ---
-## 請詳讀並遵守以下規則：
+# 請詳讀並遵守以下規則
 
-### 文字及對話類(名稱、公開聊天)
+### 文字及對話類
    1. 任何出現在伺服器的事物，請勿違反社會善良風俗。
       -  包括：ID、暱稱
    2. 言論自由應以建立在不讓他人不自在不舒服為前提之下，為良善聊天環境
@@ -13,7 +13,7 @@ date: 2021-12-31 22:10:35
    3. 請勿引起事端，玩家之間的爭執請盡量互相協調，
       -  官方一般不會但視嚴重性介入，若官方介入下得以雙方懲處。
    
-### 行為及建築類(濫用漏洞、影響伺服)
+### 行為及建築類
    1. 請勿影響他人遊戲體驗。例如：
       - 未經對方同意 PVP
       - 隨意拿取明顯他人區域內物品或殺戮其圈養生物(牽繩、圍欄、建築內…等)
@@ -39,7 +39,7 @@ date: 2021-12-31 22:10:35
       (如攀爬梯、螺旋走道…等)
       <img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/master/images/BuildRule04.png" alt="drawing" width="275" style="vertical-align:middle"/> <img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/master/images/BuildRule05.png" alt="drawing" width="275" style="vertical-align:middle"/>  
 
-### 官方類(官方行為、判決/懲處、邀請制、規定相關)
+### 官方類
    1. 官方本著公平公正立場判決，發布判決後，請尊重判決結果，雙方請勿無限上綱
    2. 判決結果後請勿秋後算帳、挾怨報復，
    包含械鬥或互嗆或暗喻官方處理結果，官方視情況得以連續開罰
