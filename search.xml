@@ -28,6 +28,30 @@
       </tags>
   </entry>
   <entry>
+    <title>404</title>
+    <url>//404.html</url>
+    <content><![CDATA[<!-- markdownlint-disable MD039 MD033 -->
+
+<h2 id="很抱歉，你目前存取的頁面並不存在。"><a href="#很抱歉，你目前存取的頁面並不存在。" class="headerlink" title="很抱歉，你目前存取的頁面並不存在。"></a>很抱歉，你目前存取的頁面並不存在。</h2><p>預計將在約 <span id="timeout">6</span> 秒後返回首頁。</p>
+<script>
+let countTime = 6;
+
+function count() {
+  
+  document.getElementById('timeout').textContent = countTime;
+  countTime -= 1;
+  if(countTime === 0){
+    location.href = '/'; // 記得改成自己網址 Url
+  }
+  setTimeout(() => {
+    count();
+  }, 1000);
+}
+
+count();
+</script>]]></content>
+  </entry>
+  <entry>
     <title>如何加入</title>
     <url>/join/index.html</url>
     <content><![CDATA[<p>在一切開始之前，請先閱讀 <a href="/rule/">磐石律法</a> 同意每一條規則再加入我們喔 :D  </p>
