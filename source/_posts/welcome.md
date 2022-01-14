@@ -19,6 +19,8 @@ tags:
 如果你想要一個溫馨、簡單的伺服器。  
 誠摯邀請你加入我們。
 
+營業時間: 00:00 ~ 24:00
+
 ## 官方社群頻道
 [Discord](https://discord.gg/mCFdwkChBG)
 

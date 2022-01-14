@@ -36,5 +36,9 @@ date: 2021-12-31 22:09:55
 例如: ```/invits verify 459851```
 <img src="https://i.imgur.com/pXxRiSk.png" alt="drawing" width="600" style="vertical-align:middle"/>
 
-8. 驗證成功，恭喜你可以開始玩了，註冊成功之後請先閱讀 [玩家須知](/notice/)
+8. 驗證成功，恭喜你擁有遊玩權限了
 <img src="https://i.imgur.com/fnazQwN.png" alt="drawing" width="600" style="vertical-align:middle"/>
+
+9. 最後的最後，如果你想要開啟 Discord 權限，
+請至 [Discord綁定](/notice/#Discord綁定) 將你的 Minecraft 與 Discord 連接！
+就可以開啟你的 Discord 權限囉！
