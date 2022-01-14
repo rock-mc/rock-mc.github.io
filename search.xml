@@ -41,7 +41,7 @@ function count() {
   document.getElementById('timeout').textContent = countTime;
   countTime -= 1;
   if(countTime === 0){
-    location.href = '/'; // 記得改成自己網址 Url
+    location.href = '/';
   }
   setTimeout(() => {
     count();
@@ -90,7 +90,7 @@ count();
 <p>讓新玩家不會一眼望去皆是高度開發的無力感。</p>
 <p>於是我們開了大範圍保護區維持原始景緻，<br>並加上隨機傳送功能，<br>讓玩家可以選擇以隨機地點開始生存，或者自行前往保護區範圍外。</p>
 <p>保護區目前設定約為半徑 1000 格<br>注意：跑到保護區外才可以破壞方塊喔！</p>
-<h3 id="Discord綁定"><a href="#Discord綁定" class="headerlink" title="Discord綁定"></a>Discord綁定</h3><p>驗證完成之後，請使用 <code>/discord link</code> 取得的驗證碼，<br>丟給 Discord 的磐石機器人喔！</p>
+<h3 id="Discord綁定"><a href="#Discord綁定" class="headerlink" title="Discord綁定"></a>Discord綁定</h3><p>驗證完成之後，在遊戲中輸入 <code>/discord link</code> 指令之後，<br>把取得的驗證碼丟給 Discord 的磐石機器人就可以綁定囉！</p>
 <h3 id="邀請新石頭"><a href="#邀請新石頭" class="headerlink" title="邀請新石頭"></a>邀請新石頭</h3><p>你可以提供 <a href="https://discord.gg/mCFdwkChBG">Discord</a> 連結來邀請你的朋友，<br>有填寫朋友ID或暱稱可以透過認識加速管理面試流程</p>
 <h3 id="紀錄查詢"><a href="#紀錄查詢" class="headerlink" title="紀錄查詢"></a>紀錄查詢</h3><p>本伺服器嚴格禁止任何影響他人的行為(詳見 <a href="/rule/">磐石律法</a>)，<br>如有任何疑似破壞、偷竊的行為，<br>可以使用 <code>/co i</code> 開啟查詢模式點選方塊，<br>查詢後截圖給管理員即可。<br>查詢過後記得還要再一次 <code>/co i</code> 關閉查詢功能喔！</p>
 <h3 id="邀請制相關指令"><a href="#邀請制相關指令" class="headerlink" title="邀請制相關指令"></a>邀請制相關指令</h3><p>&lt;&gt; 表示一定要輸入的欄位<br>[] 表示可以選擇輸入或不輸入</p>
