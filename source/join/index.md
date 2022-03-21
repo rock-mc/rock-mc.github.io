@@ -16,7 +16,7 @@ date: 2021-12-31 22:09:55
 
 ## 開始遊戲
 由於有開啟正版驗證，如果沒有 Java edition 正版帳號可以去各大便利超商購買呦！
-1. 選擇遊玩版本 1.18.1，點選**開始遊戲**
+1. 選擇遊玩版本 1.18.2，點選**開始遊戲**
 <img src="https://i.imgur.com/oDqE09J.png" alt="drawing" width="600" style="vertical-align:middle"/>  
 
 2. 點選**多人遊戲**
