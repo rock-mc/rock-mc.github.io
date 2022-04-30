@@ -9,7 +9,7 @@ date: 2021-12-31 22:09:55
 功能是採用自家工程師開發的 [InvitationSystem](https://github.com/rock-mc/InvitationSystem) 有問題可以快速修改  
 
 > 請至 [Discord](https://discord.gg/mCFdwkChBG) 於新人頻道填寫表單後，標記 @小幫手
-> 管理群會一起面試，面試通過後，即可取得邀請碼
+> 管理群會一起面試，面試通過後，即可取得驗證碼
 
 面試時請注意，你的大頭貼、說的任何話、態度都會決定面試的結果。
 連續標記 @小幫手 或私訊 小幫手 催促者，不予面試。
@@ -34,7 +34,7 @@ date: 2021-12-31 22:09:55
 6. 進入伺服器因為尚未通過驗證，會無法移動、發言，同時也免疫所有傷害
 <img src="https://i.imgur.com/sdSJFi6.png" alt="drawing" width="600" style="vertical-align:middle"/>
 
-7. 此時請輸入驗證指令與你取得的邀請碼  
+7. 此時請輸入驗證指令與你取得的驗證碼  
 例如: ```/invits verify 459851```
 <img src="https://i.imgur.com/pXxRiSk.png" alt="drawing" width="600" style="vertical-align:middle"/>
 
