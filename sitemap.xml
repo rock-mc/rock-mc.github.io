@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://rock-mc.github.io/1c07/</loc>
+    
+    <lastmod>2022-05-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://rock-mc.github.io/history/</loc>
+    
+    <lastmod>2022-05-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://rock-mc.github.io/join/</loc>
     
     <lastmod>2022-05-13</lastmod>
@@ -29,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://rock-mc.github.io/rule/</loc>
+    <loc>https://rock-mc.github.io/qa/</loc>
     
     <lastmod>2022-05-13</lastmod>
     
@@ -38,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://rock-mc.github.io/qa/</loc>
+    <loc>https://rock-mc.github.io/rule/</loc>
     
     <lastmod>2022-05-13</lastmod>
     
@@ -56,25 +74,7 @@
   </url>
   
   <url>
-    <loc>https://rock-mc.github.io/1c07/</loc>
-    
-    <lastmod>2022-05-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://rock-mc.github.io/404</loc>
-    
-    <lastmod>2022-05-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://rock-mc.github.io/history/</loc>
     
     <lastmod>2022-05-13</lastmod>
     
