@@ -21,3 +21,16 @@ date: 2022-01-14 23:20:59
 - 無法溝通者
 - 明顯猥褻惡意頭像或名稱
 話術：好，如果沒有問題的話，面試先到這邊。幹部群會根據你剛剛的面試結果做出決定後再通知您
+
+## 指令教學
+- CoreProtect
+  - https://docs.coreprotect.net/commands/
+  - 恢復指令
+  ```shell
+  /co rollback t:1d r:100
+  /co rollback t:1d u:fool
+  ```
+  - 刪除過舊資料
+  ```shell
+  /co purge t:30d r:#world_nether
+  ```
