@@ -29,13 +29,13 @@ date: 2021-12-31 22:10:35
       - 仍有補充條例空間，若有疑問請問管理員
    3. 禁止水上路徑，請以坐船方式航行。
    4. 請勿使用無法調整時間的連閃器
-      說明：指無法調整時間延遲，由 not 閘構成的閃爍器
+      說明：指無法調整時間延遲，由 `not 閘` 構成的閃爍器
       <img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/master/images/BuildRule01.gif" alt="drawing" width="275" style="vertical-align:middle"/>
       請多使用中繼器增加時間延遲並加上開關的閃爍器，不使用時可以關閉。
       <img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/master/images/BuildRule02.gif" alt="drawing" width="275" style="vertical-align:middle"/> <img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/master/images/BuildRule03.gif" alt="drawing" width="275" style="vertical-align:middle"/>  
    5. 空中路徑請建築在高度 300 以上
-      我們希望你的空中路徑是不會影響到他人住家的景觀，
-      並且請使用**垂直往上**的方式建造你前往空中路徑的建築。
+      我們希望你的空中路徑是不會影響到 `他人住家的景觀`，
+      並且請使用 `垂直往上` 的方式建造你前往空中路徑的建築。
       (如攀爬梯、螺旋走道…等)
       <img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/master/images/BuildRule04.png" alt="drawing" width="275" style="vertical-align:middle"/> <img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/master/images/BuildRule05.png" alt="drawing" width="275" style="vertical-align:middle"/>  
 
