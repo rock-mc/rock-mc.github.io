@@ -8,15 +8,17 @@ date: 2021-12-31 22:09:55
 磐石伺服器採用了驗證碼白名單系統  
 功能是採用自家工程師開發的 [InvitationSystem](https://github.com/rock-mc/InvitationSystem) 有問題可以快速修改  
 
-> 請至 [Discord](https://discord.gg/mCFdwkChBG) 於新人頻道填寫表單後，標記 @小幫手
-> 管理群會一起面試，面試通過後，即可取得驗證碼
+> 請至 [Discord](https://discord.gg/mCFdwkChBG) 於 **新人頻道** 填寫表單後點選下方[新人面試窗口]，  
+> 將新開一個會議室頻道，請靜待小幫手面試，  
+> 管理群會一起面試，面試通過後，即可取得驗證碼，  
+> 輸入後記得按勾勾確認離開會議室，驗證碼會保留於私訊中。  
 
-面試時請注意，你的大頭貼、說的任何話、態度都會決定面試的結果。
+面試時請注意，你的ID、大頭貼、簡介、說的任何話甚至態度都會決定面試的結果。  
 連續標記 @小幫手 或私訊 小幫手 催促者，不予面試。
 
 ## 開始遊戲
 由於有開啟正版驗證，如果沒有 Java edition 正版帳號可以去各大便利超商購買呦！
-1. 選擇遊玩版本 1.18.2，點選**開始遊戲**
+1. 選擇遊玩版本 1.19.2，點選**開始遊戲**
 <img src="https://i.imgur.com/oDqE09J.png" alt="drawing" width="600" style="vertical-align:middle"/>  
 
 2. 點選**多人遊戲**
@@ -41,6 +43,6 @@ date: 2021-12-31 22:09:55
 8. 驗證成功，恭喜你擁有遊玩權限了
 <img src="https://i.imgur.com/fnazQwN.png" alt="drawing" width="600" style="vertical-align:middle"/>
 
-9. 最後的最後，如果你想要開啟 Discord 權限，
-請至 [Discord綁定](/notice/#Discord綁定) 將你的 Minecraft 與 Discord 連接！
+9. 最後的最後，如果你想要開啟 Discord 權限，  
+請至 [Discord綁定](/notice/#Discord綁定) 將你的 Minecraft 與 Discord 連接！  
 就可以開啟你的 Discord 權限囉！
