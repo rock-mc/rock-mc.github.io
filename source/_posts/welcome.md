@@ -22,4 +22,4 @@ tags:
 營業時間: 00:00 ~ 24:00
 
 ## Discord
-[Discord](https://discord.gg/mCFdwkChBG)
+[Minecraft 磐石伺服器](https://discord.gg/mCFdwkChBG)
