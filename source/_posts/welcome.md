@@ -21,9 +21,5 @@ tags:
 
 營業時間: 00:00 ~ 24:00
 
-## 官方社群頻道
+## Discord
 [Discord](https://discord.gg/mCFdwkChBG)
-
-## 追蹤官方消息
-[Twitter](https://twitter.com/rock_mc_server)
-[Facebook](https://www.facebook.com/rock.mc.server)
