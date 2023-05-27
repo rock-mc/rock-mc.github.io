@@ -8,10 +8,10 @@ tags:
 <img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/publish/images/2021-09-21_00.26.38.png" alt="drawing" style="vertical-align:middle" width="600"/>
 </p>
 
-**磐石伺服器** - Java 1.19.3 原味生存伺服器  
+**磐石伺服器** - Java 1.19.4 原味生存伺服器  
 
 目標是提供一個**長期**、**穩定**、**流暢**的伺服器。  
-目前由數位軟體工程師鎮守，務求提供優質的環境給各位。
+目前由專業軟體工程師鎮守，務求提供優質的環境給各位。
 
 我們專注在提供流暢的遊玩環境。  
 盡可能使用最少的插件，有新版本的時候可以用最快的速度升級。  
