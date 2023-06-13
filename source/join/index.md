@@ -4,8 +4,8 @@ date: 2021-12-31 22:09:55
 ---
 在一切開始之前，請先閱讀 [磐石律法](/rule/) 同意每一條規則再加入我們喔 :D  
 
-## 邀請制  
-磐石伺服器採用了驗證碼白名單系統  
+## 面試制  
+磐石伺服器採用了驗證碼門禁系統  
 功能是採用自家工程師開發的 [InvitationSystem](https://github.com/rock-mc/InvitationSystem) 有問題可以快速修改  
 
 > 請至 [Discord](https://discord.gg/mCFdwkChBG) 於 **新人頻道** 填寫表單後點選下方[新人面試窗口]，  
@@ -18,7 +18,7 @@ date: 2021-12-31 22:09:55
 
 ## 開始遊戲
 由於有開啟正版驗證，如果沒有 Java edition 正版帳號可以去各大便利超商購買呦！
-1. 選擇遊玩版本 1.19.2，點選**開始遊戲**
+1. 選擇遊玩版本 1.20.1，點選**開始遊戲**
 <img src="https://i.imgur.com/oDqE09J.png" alt="drawing" width="600" style="vertical-align:middle"/>  
 
 2. 點選**多人遊戲**
