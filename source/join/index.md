@@ -27,8 +27,8 @@ date: 2021-12-31 22:09:55
 3. 點選**新增伺服器**
 <img src="https://i.imgur.com/c7rXjGC.png" alt="drawing" width="600" style="vertical-align:middle"/>
 
-4. **伺服器名稱**可任意填寫，**伺服器位址**請輸入 ```rock-mc.com``` ，點選**完成**
-<img src="https://i.imgur.com/8fetGMn.png" alt="drawing" width="600" style="vertical-align:middle"/>
+4. **伺服器名稱**可任意填寫，**伺服器位址**請輸入 ```minecraft.rock-mc.com``` ，點選**完成**
+<img src="https://imgur.com/7cxNu7H.jpg" alt="drawing" width="600" style="vertical-align:middle"/>
 
 5. 如果可以看到伺服器資訊就成功新增囉，點選伺服器再選**加入伺服器**就可以進去了
 <img src="https://i.imgur.com/qAyR0UE.png" alt="drawing" width="600" style="vertical-align:middle"/>

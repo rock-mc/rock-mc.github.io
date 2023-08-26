@@ -122,6 +122,8 @@ menu:
   如何加入: /join/ || fa fa-users
   玩家須知: /notice/ || fa fa-exclamation
   磐石律法: /rule/ || fa fa-gavel
+  Dev & Ops: /devops/ || fa fa-cogs
+  常見問題: /faq/ || fa fa-question
   文章列表: /archives/ || fa fa-archive
   編年史: /history/ || fa fa-history
   #schedule: /schedule/ || fa fa-calendar
