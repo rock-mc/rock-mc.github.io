@@ -3,7 +3,15 @@ title: Develop and Operations
 date: 2023-01-29 21:43:49
 ---
 
-在這裡，我們運用了一些 DevOps 技能與工具來幫助我們維持伺服器的運作。
+這裡將會介紹磐石伺服器使用的機器與一些使用的 DevOps 技能與工具。
+
+## 伺服器
+
+- I5 12400
+- 32G RAM
+- 1T SSD
+- 2T 備份硬碟
+- 500/500M 網路
 
 ## 驗證碼系統
 我們開發了一套插件，可以讓我們發出驗證碼給玩家。
@@ -29,4 +37,4 @@ https://github.com/rock-mc/OperationBot
 ## Grafana
 除了維運機器人，我們也採用了 Grafana 作為我們即時監測伺服器狀態的工具。
 
-<img src="https://imgur.com/Eu7Cvb5.jpg" alt="drawing" style="vertical-align:middle" width="80%"/>
+<img src="https://imgur.com/Eu7Cvb5.jpg" alt="drawing" style="vertical-align:middle" width="90%"/>
