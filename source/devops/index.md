@@ -1,5 +1,5 @@
 ---
-title: Develop and Operations
+title: Infra & Dev & Ops
 date: 2023-01-29 21:43:49
 ---
 
@@ -7,11 +7,17 @@ date: 2023-01-29 21:43:49
 
 ## 伺服器
 
-- I5 12400
-- 32G RAM
-- 1T SSD
-- 2T 備份用硬碟
-- 500/500M 搭配 MikroTik RB450Gx4
+- 處理器
+    - I5 12400
+- 記憶體
+    - 32G RAM
+- 硬碟
+    - 1T SSD
+    - 2T 備份用硬碟
+- 網路
+    - 500/500Mb
+    - MikroTik RB450Gx4
+    - CAT 6 網路線
 
 ## 驗證碼系統
 我們開發了一套插件，可以讓我們發出驗證碼給玩家。
@@ -35,6 +41,6 @@ https://github.com/rock-mc/InvitationSystem
 https://github.com/rock-mc/OperationBot
 
 ## Grafana
-除了維運機器人，我們也採用了 Grafana 作為我們即時監測伺服器狀態的工具。
+我們也採用 Grafana 作為我們即時監測伺服器狀態的工具。
 
 <img src="https://imgur.com/Eu7Cvb5.jpg" alt="drawing" style="vertical-align:middle" width="90%"/>
