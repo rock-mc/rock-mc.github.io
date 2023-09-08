@@ -20,6 +20,15 @@
   </url>
   
   <url>
+    <loc>https://rock-mc.github.io/404</loc>
+    
+    <lastmod>2023-09-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://rock-mc.github.io/devops/</loc>
     
     <lastmod>2023-09-08</lastmod>
@@ -84,15 +93,6 @@
   
   <url>
     <loc>https://rock-mc.github.io/full_rule/</loc>
-    
-    <lastmod>2023-09-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://rock-mc.github.io/404</loc>
     
     <lastmod>2023-09-08</lastmod>
     
