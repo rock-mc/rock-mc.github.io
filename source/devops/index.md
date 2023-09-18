@@ -3,7 +3,7 @@ title: Infra & Dev & Ops
 date: 2023-01-29 21:43:49
 ---
 
-這裡介紹磐石伺服器使用的設備與一些使用的 DevOps 技能與工具。
+這裡介紹磐石伺服器使用的設備與一些工具。
 
 ## 伺服器
 
@@ -18,8 +18,9 @@ date: 2023-01-29 21:43:49
     - 500/500Mb
     - MikroTik RB450Gx4
 - 資料庫
-  - MSI CUBI N
-  - MySQL
+  - MySQL in MSI Cubi N 8GL
+- UPS
+  - APC Easy UPS BV1000-TW
 
 ## 驗證碼系統
 我們開發了一套插件，可以讓我們發出驗證碼給玩家。
