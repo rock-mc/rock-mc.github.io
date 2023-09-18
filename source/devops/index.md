@@ -13,7 +13,7 @@ date: 2023-01-29 21:43:49
     - 32G RAM
 - 硬碟
     - 1T SSD
-    - 2T 備份用硬碟
+    - 2T HDD 備份用
 - 網路
     - 500/500Mb
     - MikroTik RB450Gx4
@@ -38,6 +38,7 @@ https://github.com/rock-mc/InvitationSystem
 - 伺服器意外關閉時，重新啟動伺服器
 - 發送警告訊息到 Discord
 - 自動更新 paper 伺服器程式，自動測試完成之後，就會自動上線運作
+- 斷電過後五分鐘，未恢復供電可自動關閉伺服器儲存地圖並關機
 
 程式碼:
 https://github.com/rock-mc/OperationBot
