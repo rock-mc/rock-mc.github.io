@@ -46,8 +46,8 @@ https://github.com/rock-mc/OperationBot
 ## Grafana
 我們也採用 Grafana 作為我們即時監測伺服器狀態的工具。
 
-**Server**
+**Server**  
 <img src="https://imgur.com/2pVRZYS.jpg" alt="drawing" style="vertical-align:middle" width="90%"/>
 
-**Database**
+**Database**  
 <img src="https://imgur.com/hH0Tksu.jpg" alt="drawing" style="vertical-align:middle" width="90%"/>
