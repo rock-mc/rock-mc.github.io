@@ -13,9 +13,9 @@ date: 2023-01-29 21:43:49
     - 32G RAM
 - 硬碟
     - 1T SSD
-    - 2T HDD 備份用
+    - 2T HDD 備份
 - 網路
-    - 500/500Mb
+    - 500/500 Mb
     - MikroTik RB450Gx4
 - 資料庫
   - MySQL in MSI Cubi N 8GL
@@ -46,4 +46,8 @@ https://github.com/rock-mc/OperationBot
 ## Grafana
 我們也採用 Grafana 作為我們即時監測伺服器狀態的工具。
 
-<img src="https://imgur.com/Eu7Cvb5.jpg" alt="drawing" style="vertical-align:middle" width="90%"/>
+**Server**
+<img src="https://imgur.com/2pVRZYS.jpg" alt="drawing" style="vertical-align:middle" width="90%"/>
+
+**Database**
+<img src="https://imgur.com/hH0Tksu.jpg" alt="drawing" style="vertical-align:middle" width="90%"/>
