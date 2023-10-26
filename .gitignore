@@ -3,3 +3,4 @@ node_modules/
 /db.json
 public/*
 !public/googlee881c3424b792045.html
+.DS_Store

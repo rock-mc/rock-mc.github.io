@@ -2,7 +2,16 @@
 title: 如何加入
 date: 2021-12-31 22:09:55
 ---
-在一切開始之前，請先閱讀 [磐石律法](/rule/) 同意每一條規則再加入我們喔 :D  
+
+<p align="center">
+<img src="https://imgur.com/xeCdNq4.jpg" alt="drawing" style="vertical-align:middle" width="600"/>
+</p>
+
+在你的前方有一個深邃的礦坑，這是一條加入磐石伺服器的路，看起來危險而陡峭，你只能相信路途終會變得光明順遂。
+
+**你確定要加入我們嗎？**
+
+請先閱讀 [磐石律法](/rule/) 並同意每一條規則呦。  
 
 ## 面試制  
 磐石伺服器採用了驗證碼門禁系統  
@@ -18,7 +27,7 @@ date: 2021-12-31 22:09:55
 
 ## 開始遊戲
 由於有開啟正版驗證，如果沒有 Java edition 正版帳號可以去各大便利超商購買呦！
-1. 選擇遊玩版本 1.20.1，點選**開始遊戲**
+1. 選擇遊玩版本 1.20.2，點選**開始遊戲**
 <img src="https://i.imgur.com/oDqE09J.png" alt="drawing" width="600" style="vertical-align:middle"/>  
 
 2. 點選**多人遊戲**
