@@ -5,8 +5,11 @@ date: 2022-01-01 21:49:10
 tags:
 ---
 <p align="center">
-<img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/publish/images/2021-09-21_00.26.38.png" alt="drawing" style="vertical-align:middle" width="600"/>
+<img src="https://imgur.com/s3BZR57.jpg" alt="drawing" style="vertical-align:middle" width="600"/>
 </p>
+
+[//]: # (https://imgur.com/xeCdNq4)
+[//]: # (s3BZR57)
 
 **磐石伺服器** - Java 1.20.1 原味生存伺服器  
 
