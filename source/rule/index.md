@@ -2,6 +2,11 @@
 title: 磐石律法
 date: 2022-05-17 17:38:35
 ---
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/publish/images/laws.jpeg" alt="drawing" style="vertical-align:middle" width="600"/>
+</p>
+
 # 請詳讀並遵守以下規則
 > 此為簡述版本，詳細規定請參考[完整條例](/full_rule/)
 
