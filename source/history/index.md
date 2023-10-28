@@ -2,6 +2,11 @@
 title: 編年史
 date: 2022-04-30 14:49:58
 ---
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/publish/images/history.jpeg" alt="drawing" style="vertical-align:middle" width="600"/>
+</p>
+
 - 2023.09.29
     - 升級伺服器版本至 1.20.2
 - 2023.06.13

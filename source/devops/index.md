@@ -3,6 +3,10 @@ title: Infra & Dev & Ops
 date: 2023-01-29 21:43:49
 ---
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/publish/images/infra.jpeg" alt="drawing" style="vertical-align:middle" width="600"/>
+</p>
+
 這裡介紹磐石伺服器使用的設備與一些工具。
 
 ## 伺服器

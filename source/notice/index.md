@@ -1,7 +1,9 @@
 title: 玩家須知
 date: 2022-05-13 18:20:00
 ---
->　歡迎各位小石頭的加入！這裡寫了身為小石頭需要的必備知識。
+<p align="center">
+<img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/publish/images/notes.jpeg" alt="drawing" style="vertical-align:middle" width="600"/>
+</p>
 
 ### 出生點保護區
 伺服器為維護出生點周遭的原始景緻，
