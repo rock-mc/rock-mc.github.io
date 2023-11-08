@@ -2,99 +2,99 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://rock-mc.github.io/195c/</loc>
+    <loc>https://rock-mc.com/195c/</loc>
     
-    <lastmod>2023-10-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://rock-mc.github.io/1c07/</loc>
-    
-    <lastmod>2023-10-28</lastmod>
+    <lastmod>2023-11-08</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://rock-mc.github.io/404</loc>
+    <loc>https://rock-mc.com/1c07/</loc>
     
-    <lastmod>2023-10-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://rock-mc.github.io/devops/</loc>
-    
-    <lastmod>2023-10-28</lastmod>
+    <lastmod>2023-11-08</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://rock-mc.github.io/faq/</loc>
+    <loc>https://rock-mc.com/404</loc>
     
-    <lastmod>2023-10-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://rock-mc.github.io/history/</loc>
-    
-    <lastmod>2023-10-28</lastmod>
+    <lastmod>2023-11-08</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://rock-mc.github.io/join/</loc>
+    <loc>https://rock-mc.com/devops/</loc>
     
-    <lastmod>2023-10-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://rock-mc.github.io/notice/</loc>
-    
-    <lastmod>2023-10-28</lastmod>
+    <lastmod>2023-11-08</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://rock-mc.github.io/op-readme/</loc>
+    <loc>https://rock-mc.com/faq/</loc>
     
-    <lastmod>2023-10-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://rock-mc.github.io/rule/</loc>
-    
-    <lastmod>2023-10-28</lastmod>
+    <lastmod>2023-11-08</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://rock-mc.github.io/full_rule/</loc>
+    <loc>https://rock-mc.com/history/</loc>
     
-    <lastmod>2023-10-28</lastmod>
+    <lastmod>2023-11-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://rock-mc.com/join/</loc>
+    
+    <lastmod>2023-11-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://rock-mc.com/notice/</loc>
+    
+    <lastmod>2023-11-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://rock-mc.com/op-readme/</loc>
+    
+    <lastmod>2023-11-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://rock-mc.com/rule/</loc>
+    
+    <lastmod>2023-11-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://rock-mc.com/full_rule/</loc>
+    
+    <lastmod>2023-11-08</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -102,16 +102,16 @@
   
 
   <url>
-    <loc>https://rock-mc.github.io/</loc>
-    <lastmod>2023-10-28</lastmod>
+    <loc>https://rock-mc.com/</loc>
+    <lastmod>2023-11-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://rock-mc.github.io/tags/%E8%88%8A%E5%9C%B0%E5%9C%96/</loc>
-    <lastmod>2023-10-28</lastmod>
+    <loc>https://rock-mc.com/tags/%E8%88%8A%E5%9C%B0%E5%9C%96/</loc>
+    <lastmod>2023-11-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
