@@ -2,42 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://rock-mc.com/notice/</loc>
-    
-    <lastmod>2023-11-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://rock-mc.com/op-readme/</loc>
-    
-    <lastmod>2023-11-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://rock-mc.com/rule/</loc>
-    
-    <lastmod>2023-11-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://rock-mc.com/store/</loc>
-    
-    <lastmod>2023-11-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://rock-mc.com/195c/</loc>
     
     <lastmod>2023-11-12</lastmod>
@@ -93,6 +57,42 @@
   
   <url>
     <loc>https://rock-mc.com/join/</loc>
+    
+    <lastmod>2023-11-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://rock-mc.com/notice/</loc>
+    
+    <lastmod>2023-11-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://rock-mc.com/op-readme/</loc>
+    
+    <lastmod>2023-11-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://rock-mc.com/rule/</loc>
+    
+    <lastmod>2023-11-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://rock-mc.com/store/</loc>
     
     <lastmod>2023-11-12</lastmod>
     
