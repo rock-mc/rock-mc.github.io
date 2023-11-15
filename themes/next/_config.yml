@@ -119,12 +119,13 @@ menu:
   首頁: / || fa fa-home
   #about: /about/ || fa fa-user
   #tags: /tags/ || fa fa-tags
-  如何加入: /join/ || fa fa-users
-  玩家須知: /notice/ || fa fa-exclamation
+  如何變成小石頭: /join/ || fa fa-users
+  小石頭須知: /notice/ || fa fa-exclamation
+  磐石商城: /store/ || fa fa-shopping-cart
   磐石律法: /rule/ || fa fa-gavel
-  Infra & Dev & Ops: /devops/ || fa fa-cogs
+  磐石機器: /devops/ || fa fa-cogs
   常見問題: /faq/ || fa fa-question
-  文章列表: /archives/ || fa fa-archive
+#  文章列表: /archives/ || fa fa-archive
   編年史: /history/ || fa fa-history
   #schedule: /schedule/ || fa fa-calendar
   #sitemap: /sitemap.xml || fa fa-sitemap
