@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script>
+    function displayText() {
+      // 獲取網址中的文字參數
+      const urlParams = new URLSearchParams(window.location.search);
+      const text = urlParams.get('text');
+
+      // 如果文字參數存在，則顯示在網頁上
+      if (text) {
+        document.getElementById('content').innerHTML = "驗證碼: " + text;
+      }
+    }
+  </script>
+</head>
+<body onload="displayText()">
+  <img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/publish/images/verified.jpeg" alt="drawing" style="vertical-align:middle" width="600"/>
+  <p id="content"></p>
+</body>
+</html>
