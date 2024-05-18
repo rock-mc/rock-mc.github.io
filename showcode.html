@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>顯示網址文字</title>
+  <script>
+    function displayText() {
+      // 獲取網址中的文字參數
+      const urlParams = new URLSearchParams(window.location.search);
+      const text = urlParams.get('text');
+
+      // 如果文字參數存在，則顯示在網頁上
+      if (text) {
+        document.getElementById('content').textContent = text;
+      }
+    }
+  </script>
+</head>
+<body onload="displayText()">
+  <h1>顯示網址文字</h1>
+  <p id="content"></p>
+</body>
+</html>
