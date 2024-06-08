@@ -109,7 +109,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 ### 匯款
 
-玉山銀行銀行代碼 808
-1344-979-088447
+國泰世華銀行代碼 013
+075-50-634901-0
 
 匯款完成，請在 Discord 私訊 CodingMan 帳號後五碼
