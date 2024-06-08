@@ -1,0 +1,115 @@
+---
+title: 磐石商城
+date: 2023-11-12 17:38:35
+---
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/publish/images/store.jpeg" alt="drawing" style="vertical-align:middle" width="600"/>
+</p>
+
+<div id="adultModal" style="display: block; position: fixed; z-index: 1; left: 0; top: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.4);">
+  <div style="background-color: white; margin: 15% auto; padding: 20px; border: 1px solid #888; width: 90%; text-align: left;">
+    <h2>磐石商城使用者宣告</h2>
+    注意!您即將進行的是使用<b>現金</b>購買虛擬道具的交易。在交易前，請您務必仔細閱讀並同意以下條款:<br>
+<br>
+1.伺服器規則：<br>
+必須仔細閱讀並遵守伺服器規則(詳見磐石律法)。如果您在伺服器時違反了規則，將按照伺服器的規定進行處罰，並不會進行補償或退款。<br>
+<br>
+2.年齡限制：<br>
+如果您未滿 18 歲，請確保在合法監護人的同意下進行消費。完成交易即視為您有權使用交易金額，並已獲得監護人的同意。<br>
+<br>
+3.商品特殊性：<br>
+由於虛擬道具的特殊性質，本伺服器所有商品一經售出，不提供退款、退貨或換貨服務。<br>
+購買前，請您務必確認商品是否符合您的需求和期望。如有任何疑問，請先與管理員聯繫，再決定是否購買。<br>
+<br>
+4.安全提醒：<br>
+請勿將您的帳號密碼、交易資訊或虛擬道具轉讓給他人，以避免您的帳號被盜或出現其他安全問題。<br>
+伺服器管理團隊不會要求您提供此類訊息。<br>
+<br>
+5.交易風險：<br>
+購買虛擬道具屬於自願行為，並存在一定風險，<br>
+例如遊戲更新導致物品失效、伺服器關閉或其他不可預見的情況可能影響您購買的虛擬道具的使用。<br>
+在這些情況下，我們將不承擔責任，也不提供補償。<br>
+<br>
+若您已經完全理解並同意以上條款，請點擊「我接受」按鈕，即可完成交易。祝您在磐石伺服器玩得開心!</p>
+    <div style="margin-top: 20px;">
+      <button id="confirmBtn" style="margin: 0 10px;">我接受</button>
+      <button id="leaveBtn" style="margin: 0 10px;">離開商城</button>
+    </div>
+  </div>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var adultModal = document.getElementById('adultModal');
+  var confirmBtn = document.getElementById('confirmBtn');
+  var leaveBtn = document.getElementById('leaveBtn');
+
+  confirmBtn.addEventListener('click', function () {
+    adultModal.style.display = 'none';
+    // localStorage.setItem('adultConfirmed', 'true');
+  });
+
+  leaveBtn.addEventListener('click', function () {
+    window.location.href = 'https://rock-mc.com/'; // 將此網址替換為您想重定向的頁面
+  });
+
+  var adultConfirmed = localStorage.getItem('adultConfirmed');
+  if (adultConfirmed === 'true') {
+    // adultModal.style.display = 'none';
+  }
+});
+</script>
+
+## 磐石商城
+
+### 磐石錠
+
+**磐石錠**是磐石伺服器的虛擬貨幣，可以用來購買商城道具。
+
+| 金額           | 磐石錠        |
+|--------------|------------|
+| 20 ~ 100 NTD | 20 ~ 100   |
+| 300  NTD     | 315 +5%    |
+| 500  NTD     | 550 +10%   |
+| 1000  NTD    | 1150 +15%  |
+| 3000  NTD    | 3600 +20%  |
+| 5000  NTD    | 6250 +25%  |
+| 10000  NTD   | 13000 +30% |
+
+### 道具列表
+
+| 商品名稱  | 價格          | 備註       |
+|-------|-------------|----------|  
+| 透明展示框 | 50 磐石錠/8個   |          |
+| 鐵磚    | 300 磐石錠/組   |          |
+| 鑽石    | 400 磐石錠/組   |          |
+| 獄髓錠   | 550 磐石錠/組   |          |
+| 終界水晶  | 20 磐石錠/顆    | PVP、打龍必備 |
+| 鞘翅    | 100 磐石錠/個   |          |
+| 藍色蠑螈  | 200 磐石錠/個   |          |
+| 雙色哞菇牛 | 200 磐石錠/個   |          |
+| 貓     | 150 磐石錠/個   |          |
+| 山貓    | 200 磐石錠/個   |          |
+| 狼     | 150 磐石錠/個   |          |
+| 個人頭顱  | 200 磐石錠/個   |          |
+| 命名牌   | 50 磐石錠/個    |          |
+| 自訂名稱  | 100 磐石錠/次   |          |
+| 飛行時間  | 200 磐石錠/10天 |          |
+| 飛行時間  | 500 磐石錠/30天 |          |
+
+註：NTD 可直接與磐石錠轉換，1 NTD = 1 磐石錠
+例如：命名牌可直接用 50 NTD 購買
+
+## 付款方式
+
+### Line Pay
+
+<img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/publish/images/linepay.jpg" alt="drawing" width="35%"/>
+
+### 匯款
+
+玉山銀行銀行代碼 808
+1344-979-088447
+
+匯款完成，請在 Discord 私訊 CodingMan 帳號後五碼
