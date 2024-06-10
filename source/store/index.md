@@ -87,6 +87,9 @@ document.addEventListener('DOMContentLoaded', function () {
 | 5000  NTD    | 6250     | +25% |
 | 10000  NTD   | 13000    | +30% |
 
+註：NTD 可直接與磐石幣轉換，1 NTD = 1 磐石幣
+例如：命名牌可直接用 50 NTD 購買
+
 ### 道具
 
 | 商品名稱  | 價格        | 備註                 |
@@ -105,6 +108,16 @@ document.addEventListener('DOMContentLoaded', function () {
 註：此比例依照 Minecraft 遊戲內的比例設定
 
 詳細可參考
+
+| 商品名稱 | 價格         | 備註                                 |
+|------|------------|------------------------------------|
+| 鐵錠   | 200 磐石幣/組  | 出現比例 566 / 100000                  |
+| 黃金錠  | 200 磐石幣/組  | 出現比例 176 / 100000                  |
+| 紅石粉  | 150 磐石幣/組  | 出現比例 511 / 100000                  |
+| 鑽石   | 300 磐石幣/組  | 出現比例 227 / 100000                  |
+| 獄髓錠  | 5000 磐石幣/組 | 遠古遺骸 50 / 100000 / 4 = 12 / 100000 |
+
+註：此比例部分參考 Minecraft 遊戲的比例設定
 https://minecraft.fandom.com/zh/wiki/%E7%9F%BF%E7%9F%B3?variant=zh-tw
 
 ### 戰鬥道具
@@ -113,6 +126,12 @@ https://minecraft.fandom.com/zh/wiki/%E7%9F%BF%E7%9F%B3?variant=zh-tw
 |------|-----------|--------------------|
 | 終界水晶 | 20 磐石幣/顆  | PVP、打龍必備           |
 | 鞘翅   | 120 磐石幣/個 | 在空中自由滑翔,探索世界的每個角落! |
+
+### 經驗
+
+| 商品名稱 | 價格        | 備註                |
+|------|-----------|-------------------|
+| 經驗瓶  | 150 磐石幣/組 | 每瓶可以獲得 3 ~ 11 點經驗 |
 
 ### 寵物
 
@@ -140,7 +159,6 @@ https://minecraft.fandom.com/zh/wiki/%E7%9F%BF%E7%9F%B3?variant=zh-tw
 | 飛行時間 | 200 磐石幣/10天 | 尚未實裝 |
 | 飛行時間 | 500 磐石幣/30天 | 尚未實裝 |
 
-
 註：NTD 可直接與磐石幣轉換，1 NTD = 1 磐石幣
 例如：命名牌可直接用 50 NTD 購買
 
@@ -148,7 +166,7 @@ https://minecraft.fandom.com/zh/wiki/%E7%9F%BF%E7%9F%B3?variant=zh-tw
 
 ### Line Pay
 
-<img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/publish/images/linepay.jpg" alt="drawing" width="35%"/>
+<img src="https://raw.githubusercontent.com/rock-mc/rock-mc.github.io/publish/images/linepay.jpg" alt="drawing" width="25%"/>
 
 ### 匯款
 
@@ -156,3 +174,7 @@ https://minecraft.fandom.com/zh/wiki/%E7%9F%BF%E7%9F%B3?variant=zh-tw
 075-50-634901-0
 
 匯款完成，請在 Discord 私訊 CodingMan 帳號後五碼
+
+### Paypal
+
+[![paypal](https://www.paypalobjects.com/webstatic/mktg/logo/AM_mc_vs_dc_ae.jpg)](https://www.paypal.com/paypalme/CodingMan)
