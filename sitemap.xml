@@ -56,15 +56,6 @@
   </url>
   
   <url>
-    <loc>https://rock-mc.com/history/</loc>
-    
-    <lastmod>2024-06-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://rock-mc.com/full_rule/</loc>
     
     <lastmod>2024-06-10</lastmod>
@@ -74,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://rock-mc.com/join/</loc>
+    <loc>https://rock-mc.com/history/</loc>
     
     <lastmod>2024-06-10</lastmod>
     
@@ -84,6 +75,15 @@
   
   <url>
     <loc>https://rock-mc.com/notice/</loc>
+    
+    <lastmod>2024-06-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://rock-mc.com/join/</loc>
     
     <lastmod>2024-06-10</lastmod>
     
