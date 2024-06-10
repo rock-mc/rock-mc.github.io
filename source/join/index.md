@@ -15,7 +15,7 @@ date: 2021-12-31 22:09:55
 
 ## 面試制  
 磐石伺服器採用了驗證碼門禁系統  
-功能是採用自家工程師開發的 [InvitationSystem](https://github.com/rock-mc/InvitationSystem) 有問題可以快速修改  
+功能是採用自家工程師開發的 [Syn](https://github.com/rock-mc/Syn) 有問題可以快速修改  
 
 > 請至 [Discord](https://discord.gg/mCFdwkChBG) 於 **新人頻道** 填寫表單後點選下方[新人面試窗口]，  
 > 將新開一個會議室頻道，請靜待小幫手面試，  
@@ -46,8 +46,8 @@ date: 2021-12-31 22:09:55
 <img src="https://i.imgur.com/sdSJFi6.png" alt="drawing" width="600" style="vertical-align:middle"/>
 
 7. 此時請輸入驗證指令與你取得的驗證碼  
-例如: ```/invits verify 459851```
-<img src="https://i.imgur.com/pXxRiSk.png" alt="drawing" width="600" style="vertical-align:middle"/>
+例如: ```/syn verify 123456```
+<img src="https://i.imgur.com/6kUk3fY.png" alt="drawing" width="600" style="vertical-align:middle"/>
 
 8. 驗證成功，恭喜你擁有遊玩權限了
 <img src="https://i.imgur.com/fnazQwN.png" alt="drawing" width="600" style="vertical-align:middle"/>
