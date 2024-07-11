@@ -90,7 +90,7 @@ document.addEventListener('DOMContentLoaded', function () {
 註：NTD 可直接與磐石幣轉換，1 NTD = 1 磐石幣
 例如：命名牌可直接用 50 NTD 購買
 
-### 道具
+### 特殊道具
 
 | 商品名稱  | 價格        | 備註                 |
 |-------|-----------|--------------------|  
@@ -110,7 +110,7 @@ document.addEventListener('DOMContentLoaded', function () {
 註：此比例部分參考 Minecraft 遊戲的比例設定
 https://minecraft.fandom.com/zh/wiki/%E7%9F%BF%E7%9F%B3?variant=zh-tw
 
-### 道具
+### 稀有道具
 
 | 商品名稱                | 價格          | 備註                 |
 |---------------------|-------------|--------------------|
@@ -118,6 +118,7 @@ https://minecraft.fandom.com/zh/wiki/%E7%9F%BF%E7%9F%B3?variant=zh-tw
 | 鞘翅                  | 200 磐石幣/個   | 在空中自由滑翔,探索世界的每個角落! |
 | 鞘翅 + 保護四 + 修補 + 耐久三 | 300 磐石幣/個   | 經過測試可**略微**提升保護力   |
 | 煙火                  | 10 磐石幣/3組   | 煙火炮擊，慶祝活動必備        |
+| 重鎚                  | 300 磐石幣/隻   | 下落攻擊，破壞力十足         |
 
 ### 經驗
 
