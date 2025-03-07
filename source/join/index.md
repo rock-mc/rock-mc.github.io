@@ -27,7 +27,7 @@ date: 2021-12-31 22:09:55
 
 ## 開始遊戲
 由於有開啟正版驗證，如果沒有正版帳號可以去各大便利超商購買呦！
-1. 選擇遊玩版本 1.21.1，點選**開始遊戲**
+1. 選擇遊玩版本 1.21.4，點選**開始遊戲**
 <img src="https://i.imgur.com/oDqE09J.png" alt="drawing" width="600" style="vertical-align:middle"/>  
 
 2. 點選**多人遊戲**
@@ -42,7 +42,8 @@ date: 2021-12-31 22:09:55
    <img src="https://imgur.com/7cxNu7H.jpg" alt="drawing" width="600" style="vertical-align:middle"/>
 
     ### Bedrock 版
-    **伺服器位址**請輸入 ```bedrock.rock-mc.com``` ，點選**完成**
+    **伺服器位址**請輸入 ```bedrock.rock-mc.com```
+    **埠號**請輸入 ```19132``` ，點選**完成**
 
 5. 如果可以看到伺服器資訊就成功新增囉，點選伺服器再選**加入伺服器**就可以進去了
 <img src="https://i.imgur.com/qAyR0UE.png" alt="drawing" width="600" style="vertical-align:middle"/>
