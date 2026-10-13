@@ -31,14 +31,14 @@ jobs:
     
     # Deploy hexo blog website.
     - name: Deploy
-      id: deploy
-      uses: PttCodingMan/hexo-action@master
-      with:
-        deploy_key: ${{ secrets.DEPLOY_KEY }}
-        #user_name: your github username  # (or delete this input setting to use bot account)
-        #user_email: your github useremail  # (or delete this input setting to use bot account)
-        #commit_msg: ${{ github.event.head_commit.message }}  # (or delete this input setting to use hexo default settings)
-    # Use the output from the `deploy` step(use for test action)
-    - name: Get the output
       run: |
-        echo "${{ steps.deploy.outputs.notify }}"
+        mkdir -p ~/.ssh/
+        echo "${{ secrets.DEPLOY_KEY }}" > ~/.ssh/id_rsa
+        chmod 600 ~/.ssh/id_rsa
+        ssh-keyscan github.com >> ~/.ssh/known_hosts
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        npm install --no-save hexo-deployer-git
+        # 先拉下 hexo 分支，保留部署歷史
+        git clone --branch hexo git@github.com:rock-mc/rock-mc.github.io.git .deploy_git
+        npx hexo generate --deploy
