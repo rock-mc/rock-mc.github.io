@@ -4,14 +4,6 @@ on:
   push:
     branches:
       - publish
-  workflow_dispatch:
-
-permissions:
-  contents: read
-
-concurrency:
-  group: hexo-deploy
-  cancel-in-progress: false
 
 jobs:
   build:
@@ -19,29 +11,34 @@ jobs:
     name: Deploy blog.
     steps:
     - name: Checkout
-      uses: actions/checkout@v7
+      uses: actions/checkout@v1
       with:
         submodules: true # Checkout private submodules(themes or something else).
-        fetch-depth: 1 # Only fetch the latest commit to speed up cloning
-
-    - name: Use Node.js 20.x
-      uses: actions/setup-node@v7
+    
+    # Caching dependencies to speed up workflows. (GitHub will remove any cache entries that have not been accessed in over 7 days.)
+    - name: Cache node modules
+      uses: actions/cache@v4
+      id: cache
       with:
-        node-version: 20.x
-        cache: 'npm'
-
+        path: node_modules
+        key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+        restore-keys: |
+          ${{ runner.os }}-node-
     - name: Install Dependencies
+      if: steps.cache.outputs.cache-hit != 'true'
       run: npm ci
-
+      #run: npm install
+    
+    # Deploy hexo blog website.
     - name: Deploy
-      env:
-        GIT_USER: PttCodingMan
-        GIT_EMAIL: pttcodingman@gmail.com
       run: |
         mkdir -p ~/.ssh/
         echo "${{ secrets.DEPLOY_KEY }}" > ~/.ssh/id_rsa
         chmod 600 ~/.ssh/id_rsa
         ssh-keyscan github.com >> ~/.ssh/known_hosts
-        git config --global user.name "$GIT_USER"
-        git config --global user.email "$GIT_EMAIL"
-        npm run deploy -- -g
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        npm install --no-save hexo-deployer-git
+        # 先拉下 hexo 分支，保留部署歷史
+        git clone --branch hexo git@github.com:rock-mc/rock-mc.github.io.git .deploy_git
+        npx hexo generate --deploy
