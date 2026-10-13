@@ -5,6 +5,9 @@ on:
     branches:
       - publish
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -31,11 +34,11 @@ jobs:
     
     # Deploy hexo blog website.
     - name: Deploy
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        mkdir -p ~/.ssh/
-        echo "${{ secrets.DEPLOY_KEY }}" > ~/.ssh/id_rsa
-        chmod 600 ~/.ssh/id_rsa
-        ssh-keyscan github.com >> ~/.ssh/known_hosts
+        # 用 GITHUB_TOKEN 走 HTTPS，取代 _config.yml 裡的 SSH 網址
+        git config --global url."https://x-access-token:${GITHUB_TOKEN}@github.com/".insteadOf "git@github.com:"
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
         npm install --no-save hexo-deployer-git
