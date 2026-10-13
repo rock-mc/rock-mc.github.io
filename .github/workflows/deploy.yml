@@ -4,6 +4,14 @@ on:
   push:
     branches:
       - publish
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: hexo-deploy
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -11,34 +19,29 @@ jobs:
     name: Deploy blog.
     steps:
     - name: Checkout
-      uses: actions/checkout@v1
+      uses: actions/checkout@v7
       with:
         submodules: true # Checkout private submodules(themes or something else).
-    
-    # Caching dependencies to speed up workflows. (GitHub will remove any cache entries that have not been accessed in over 7 days.)
-    - name: Cache node modules
-      uses: actions/cache@v4
-      id: cache
+        fetch-depth: 1 # Only fetch the latest commit to speed up cloning
+
+    - name: Use Node.js 20.x
+      uses: actions/setup-node@v7
       with:
-        path: node_modules
-        key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
-        restore-keys: |
-          ${{ runner.os }}-node-
+        node-version: 20.x
+        cache: 'npm'
+
     - name: Install Dependencies
-      if: steps.cache.outputs.cache-hit != 'true'
       run: npm ci
-      #run: npm install
-    
-    # Deploy hexo blog website.
+
     - name: Deploy
-      id: deploy
-      uses: PttCodingMan/hexo-action@master
-      with:
-        deploy_key: ${{ secrets.DEPLOY_KEY }}
-        #user_name: your github username  # (or delete this input setting to use bot account)
-        #user_email: your github useremail  # (or delete this input setting to use bot account)
-        #commit_msg: ${{ github.event.head_commit.message }}  # (or delete this input setting to use hexo default settings)
-    # Use the output from the `deploy` step(use for test action)
-    - name: Get the output
+      env:
+        GIT_USER: PttCodingMan
+        GIT_EMAIL: pttcodingman@gmail.com
       run: |
-        echo "${{ steps.deploy.outputs.notify }}"
+        mkdir -p ~/.ssh/
+        echo "${{ secrets.DEPLOY_KEY }}" > ~/.ssh/id_rsa
+        chmod 600 ~/.ssh/id_rsa
+        ssh-keyscan github.com >> ~/.ssh/known_hosts
+        git config --global user.name "$GIT_USER"
+        git config --global user.email "$GIT_EMAIL"
+        npm run deploy -- -g
