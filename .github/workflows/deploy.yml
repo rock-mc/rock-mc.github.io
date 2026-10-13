@@ -41,7 +41,8 @@ jobs:
         git config --global url."https://x-access-token:${GITHUB_TOKEN}@github.com/".insteadOf "git@github.com:"
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        npm install --no-save hexo-deployer-git
+        # hexo 只載入 package.json 裡的套件，所以要 --save（只改 CI 裡的檔案）
+        npm install --save hexo-deployer-git
         # 先拉下 hexo 分支，保留部署歷史
         git clone --branch hexo git@github.com:rock-mc/rock-mc.github.io.git .deploy_git
         npx hexo generate --deploy
